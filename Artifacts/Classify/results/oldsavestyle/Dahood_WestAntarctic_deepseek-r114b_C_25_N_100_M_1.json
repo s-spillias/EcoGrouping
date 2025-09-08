@@ -1,0 +1,174 @@
+[
+  {
+    "species": "Orcinus orca",
+    "group": "Killer whale"
+  },
+  {
+    "species": "Hydrurga leptonyx",
+    "group": "Leopard Seal"
+  },
+  {
+    "species": "Leptonychotes wedellii",
+    "group": "Weddell Seal"
+  },
+  {
+    "species": "Lobodon carcinophagus",
+    "group": "Crabeater Seal"
+  },
+  {
+    "species": "Arctocephalus gazella",
+    "group": "Antarctic Fur Seal"
+  },
+  {
+    "species": "Mirounga leonina",
+    "group": "Sperm Whale"
+  },
+  {
+    "species": "Physeter macrocephalus",
+    "group": "Sperm Whale"
+  },
+  {
+    "species": "Balaenoptera musculus",
+    "group": "Blue Whale"
+  },
+  {
+    "species": "Balaenoptera physalus",
+    "group": "Fin Whale"
+  },
+  {
+    "species": "Balaenoptera bonaerensis",
+    "group": "Minke Whales"
+  },
+  {
+    "species": "Balaenoptera acutorostrata",
+    "group": "Minke Whales"
+  },
+  {
+    "species": "Megaptera novaeangliae",
+    "group": "Humpback whale"
+  },
+  {
+    "species": "Aptenodytes forsteri",
+    "group": "Ad\u00e9lie Penguin"
+  },
+  {
+    "species": "Pygoscelis papua",
+    "group": "Gentoo Penguin"
+  },
+  {
+    "species": "Pygoscelis antarcticus",
+    "group": "Chinstrap Penguin"
+  },
+  {
+    "species": "Pygoscelis adeliae",
+    "group": "Ad\u00e9lie Penguin"
+  },
+  {
+    "species": "Eudyptes chrysolophus",
+    "group": "Macaroni Penguin"
+  },
+  {
+    "species": "Macronectes giganteus",
+    "group": "S Elephant Seal"
+  },
+  {
+    "species": "Thalassoica antarctica",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Stercorarius maccormicki",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Oceanites oceanicus",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Halobaena caerulea",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Daption capense",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Thalassarche melanophris",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Procellaria aequinoctialis",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Pagodroma nivea",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Fulmarus glacialoides",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Fregetta tropica",
+    "group": "Flying Birds"
+  },
+  {
+    "species": "Moreoteuthis sp.",
+    "group": "Cephalopods"
+  },
+  {
+    "species": "Electrona antarctica",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Notothenia rossii",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Champsocephalus gunnari",
+    "group": "Mackerel Icefish"
+  },
+  {
+    "species": "Gobionotothen gibberifrons",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Salpa thompsoni",
+    "group": "Salps"
+  },
+  {
+    "species": "Euphausia superba",
+    "group": "Krill"
+  },
+  {
+    "species": "Thysanoessa macrura",
+    "group": "Other Euphausiids"
+  },
+  {
+    "species": "Euphausia crystallorophias",
+    "group": "Other Euphausiids"
+  },
+  {
+    "species": "Cryptophytes",
+    "group": "Large Phytoplankton"
+  },
+  {
+    "species": "nanoflagellates",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "Diatoms",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "Echinoderms",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Polychaetes",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Gastropods",
+    "group": "Benthic Invertebrates"
+  }
+]

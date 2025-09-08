@@ -1,0 +1,70 @@
+[
+  {
+    "species": "Spheniscus mendiculus",
+    "group": "Gal\u00e1pagos Penguin"
+  },
+  {
+    "species": "Sphyraena idiates",
+    "group": "Barracudas"
+  },
+  {
+    "species": "Mugil galapagensis",
+    "group": "Mullet"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "Mullet"
+  },
+  {
+    "species": "Mugil curema",
+    "group": "Mullet"
+  },
+  {
+    "species": "Engraulidae",
+    "group": "Anchovy"
+  },
+  {
+    "species": "Anchoa naso",
+    "group": "Anchovy"
+  },
+  {
+    "species": "Sardinops sagax sagax",
+    "group": "Sardines"
+  },
+  {
+    "species": "Clupeidae",
+    "group": "Herrings"
+  },
+  {
+    "species": "Opisthonema berlangai",
+    "group": "Herrings"
+  },
+  {
+    "species": "Xenichthys agassizi",
+    "group": "Herrings"
+  },
+  {
+    "species": "Xenocys jessiae",
+    "group": "Herrings"
+  },
+  {
+    "species": "Panulirus gracilis",
+    "group": "Decapods"
+  },
+  {
+    "species": "Panulirus penicillatus",
+    "group": "Decapods"
+  },
+  {
+    "species": "Scyllaridea astori",
+    "group": "Decapods"
+  },
+  {
+    "species": "Functional group spp. (predatory)",
+    "group": "Predatory Zooplankton"
+  },
+  {
+    "species": "Functional group spp. (herbivorous)",
+    "group": "Herbivorous Zooplankton"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Gempylidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Stomatopoda",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Hyaloteuthis pelagica",
+    "group": "Mesopelagic molluscs"
+  },
+  {
+    "species": "Malacanthidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Myctophidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "Amphipoda",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "ciliates",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Tetrapturus angustirostris",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Lampris guttatus",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Xiphias gladius",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Prionace glauca",
+    "group": "Blue shark"
+  },
+  {
+    "species": "Nomeidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Megalopa",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Phronima",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Scombrolabracidae",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Scyllaridae",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Moroteuthis",
+    "group": "Mesopelagic molluscs"
+  },
+  {
+    "species": "Histioteuthidae",
+    "group": "Mesopelagic molluscs"
+  },
+  {
+    "species": "Stenoteuthis",
+    "group": "Epipelagic molluscs"
+  },
+  {
+    "species": "Harpiosquillidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Chiasmodontidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Makaira indica",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Bolitaenidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "Pterygioteuthis",
+    "group": "Meso/Migrant mesopelagic molluscs"
+  },
+  {
+    "species": "Moroteuthis lonnbergi",
+    "group": "Meso/Migrant mesopelagic molluscs"
+  },
+  {
+    "species": "Hyperiidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Ancistrocheirus",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Ophiididae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Scorpaenidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Argonautidae",
+    "group": "Meso/Migrant mesopelagic molluscs"
+  },
+  {
+    "species": "Carcharhinidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "rotifers",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "sarcodinids",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Oplophorus",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Tetrapturus audax",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Ommastrephidae",
+    "group": "Migrant bathypelagic forage"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Tetraodontidae",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Sepiolidae",
+    "group": "Epipelagic molluscs"
+  },
+  {
+    "species": "Alopiidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Enoploteuthidae",
+    "group": "Mesopelagic molluscs"
+  },
+  {
+    "species": "autotrophic dinoflagellates",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Amphitretidae",
+    "group": "Mesopelagic molluscs"
+  },
+  {
+    "species": "diatoms",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "pelagophytes",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "Triacanthidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "Coryphaenidae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Scopelarchidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "copepod nauplii",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "Migrant bathypelagic forage"
+  },
+  {
+    "species": "Carinariidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "bacterioplankton",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Sphyrnidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Alepisauridae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Maurolicus",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "prymnesiophytes",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "Diretmidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Omosudidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Octopoteuthidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Zanclidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Makaira mazara",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Molidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Holocentridae",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Macrurocyttidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "Penaeoidea",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Katsuwonus pelamis",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Ostracoberycidae",
+    "group": "Mesopelagic fish"
+  },
+  {
+    "species": "copepods",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Euphausiidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Eucleoteuthis luminosa",
+    "group": "Mesopelagic molluscs"
+  },
+  {
+    "species": "autotrophic eukaryotes",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "Decapoda",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Pomacanthidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Serranidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Lamnidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Sergestidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Istiophorus platypterus",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Caridae",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Balistidae",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Kyphosidae",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Bramidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Euphausids",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "heterotrophic pico- and nanozooplankton",
+    "group": "Microzooplankton"
+  },
+  {
+    "species": "Ostraciidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Argyropelecus",
+    "group": "Highly migrant bathypelagic forage"
+  },
+  {
+    "species": "Acanthuridae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Monacanthidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Diodontidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Phosichthyidae",
+    "group": "Highly migrant bathypelagic forage"
+  },
+  {
+    "species": "small cladocerans",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Chaetodontidae",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Scombridae",
+    "group": "Highly migrant bathypelagic forage"
+  },
+  {
+    "species": "Synechococcus",
+    "group": "Small phytoplankton"
+  },
+  {
+    "species": "Sternoptyx",
+    "group": "Epipelagic fish"
+  },
+  {
+    "species": "Clupeidae",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Percophidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Onychoteuthidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Caristiidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "Highly migrant bathypelagic forage"
+  },
+  {
+    "species": "Enoplometopidae",
+    "group": "Mesozooplankton"
+  }
+]

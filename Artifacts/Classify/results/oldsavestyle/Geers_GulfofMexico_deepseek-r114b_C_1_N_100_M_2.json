@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Rhizoprionodon terraenovae",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Loligo plei",
+    "group": "Squid"
+  },
+  {
+    "species": "Mycteroperca spp.",
+    "group": "Groupers"
+  },
+  {
+    "species": "Euthynnus alletteratus",
+    "group": "Tunas"
+  },
+  {
+    "species": "Caranx hippos",
+    "group": "Coastal Pelagic Piscivores"
+  },
+  {
+    "species": "Dasyatis say",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Stomatopoda",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Panulirus argus",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Leucophaeus atricilla",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Menidia spp.",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Gavia immer",
+    "group": "Loons"
+  },
+  {
+    "species": "Hydroprogne caspia",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "Tunanas"
+  },
+  {
+    "species": "Carcharhinus limbatus",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Pandion haliaetus",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "Spotted Seatrout"
+  },
+  {
+    "species": "Phalacrocorax auritus",
+    "group": "Pelicaniformes"
+  },
+  {
+    "species": "Chloroscombrus chrysurus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Opisthonema oglinum",
+    "group": "Nearshore Omnivores"
+  },
+  {
+    "species": "Caranx crysos",
+    "group": "Coastal Pelagic Piscivores"
+  },
+  {
+    "species": "Lolliguncula brevis",
+    "group": "Squid"
+  },
+  {
+    "species": "Scomberomorus maculatus",
+    "group": "Mackerels"
+  },
+  {
+    "species": "Anchoa hepsetus",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Trichiurus lepturus",
+    "group": "Coastal Pelagic Piscivores"
+  },
+  {
+    "species": "Haliaeetus leucocephalus",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Chaetodipterus faber",
+    "group": "Butterfish"
+  },
+  {
+    "species": "Crassostrea virginica",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Trachurus lathami",
+    "group": "Mackerels"
+  },
+  {
+    "species": "Dasyatis americana",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Pelecanus occidentalis",
+    "group": "Pelicaniformes"
+  },
+  {
+    "species": "Bairdiella chrysoura",
+    "group": "Spot"
+  },
+  {
+    "species": "Gelochelidon nilotica",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Elops saurus",
+    "group": "Coastal Pelagic Piscivores"
+  },
+  {
+    "species": "Thalasseus sandvicensis",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Carcharhinus plumbeus",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Epinephelus spp.",
+    "group": "Groupers"
+  },
+  {
+    "species": "Negaprion brevirostris",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Lutjanus griseus",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Brevoortia patronus",
+    "group": "Menhaden"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Carcharhinus brevipinna",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Trachinotus carolinus",
+    "group": "Spot"
+  },
+  {
+    "species": "Haemulon spp.",
+    "group": "Other Demersal Fishes"
+  },
+  {
+    "species": "Harengula jaguana",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Bagre marinus",
+    "group": "Sea Catfishes"
+  },
+  {
+    "species": "Dasyatis sabina",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Caridea",
+    "group": "Caridean Shrimp"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Cynoscion nebulosus",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Echinodermata",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Scomberomorus cavalla",
+    "group": "Mackerels"
+  },
+  {
+    "species": "Morus bassanus",
+    "group": "Coastal Pelagic Piscivores"
+  },
+  {
+    "species": "Pelecanus erythrorhynchos",
+    "group": "Pelicaniformes"
+  },
+  {
+    "species": "Orthopristis chrysoptera",
+    "group": "Nearshore Omnivores"
+  },
+  {
+    "species": "Carcharhinus leucas",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Trinectes maculatus",
+    "group": "Stone Crab"
+  },
+  {
+    "species": "Actiniaria",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Decapoda",
+    "group": "Blue Crab"
+  },
+  {
+    "species": "Micropogonias undulatus",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Sterna hirundo",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Atractosteus spatula",
+    "group": "Gars"
+  },
+  {
+    "species": "Paralichthys albigutta",
+    "group": "Flounders"
+  },
+  {
+    "species": "Sternula antillarum",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Gastropoda",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Fregata magnificens",
+    "group": "Pelicaniformes"
+  },
+  {
+    "species": "Galeocerdo cuvier",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Mugil curema",
+    "group": "Nearshore Omnivores"
+  },
+  {
+    "species": "Tunicata",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Larus marinus",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Rachycentron canadum",
+    "group": "Ladyfish"
+  },
+  {
+    "species": "Sterna forsteri",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Sphyrna zygaena",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Menticirrhus spp.",
+    "group": "Red Drum"
+  },
+  {
+    "species": "Tetraodontidae spp.",
+    "group": "Other Demersal Fishes"
+  },
+  {
+    "species": "Lutjanus synagris",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Scyllaridae",
+    "group": "Stone Crab"
+  },
+  {
+    "species": "Dasyatis centroura",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Callinectes sapidus",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Thunnus atlanticus",
+    "group": "Tunanas"
+  },
+  {
+    "species": "Opsanus beta",
+    "group": "Nearshore Omnivores"
+  },
+  {
+    "species": "Peprilus burti",
+    "group": "Butterfish"
+  },
+  {
+    "species": "Dorosoma petenense",
+    "group": "Shads"
+  },
+  {
+    "species": "Etrumeus teres",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Rhinoptera bonasus",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "Spot"
+  },
+  {
+    "species": "Penaeidae",
+    "group": "Penaeid Shrimp"
+  },
+  {
+    "species": "Anchoa mitchilli",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Stenella frontalis",
+    "group": "Coastal Dolphins"
+  },
+  {
+    "species": "Dorosoma cepedianum",
+    "group": "Shads"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "Mullets"
+  },
+  {
+    "species": "Menippe mercenaria",
+    "group": "Stone Crab"
+  },
+  {
+    "species": "Rynchops niger",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Ginglymostoma cirratum",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Doryteuthis pealeii",
+    "group": "Squid"
+  },
+  {
+    "species": "Lepisosteus osseus",
+    "group": "Gars"
+  },
+  {
+    "species": "Larus delawarensis",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Cyprinodontidae",
+    "group": "Coastal Pelagic Piscivores"
+  }
+]

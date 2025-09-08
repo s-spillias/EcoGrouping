@@ -1,0 +1,802 @@
+[
+  {
+    "species": "Sardinella aurita",
+    "group": "missing"
+  },
+  {
+    "speciees": "Saradinella aurita",
+    "group": "sardine-herrering-scaad complex"
+  },
+  {
+    "species": "Mugil gyrans",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mugil gyrans",
+    "group": "mullets"
+  },
+  {
+    "species": "Opsanus tau",
+    "group": "missing"
+  },
+  {
+    "speciees": "Opsanus tau",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Synodus intermedius",
+    "group": "missing"
+  },
+  {
+    "speciees": "Synodus intermedius",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Stenotomus caprinus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stenotomus caprinus",
+    "group": "Dolphins"
+  },
+  {
+    "species": "Dasyatis centroura",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dasyatis centroura",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Epinephelus cruentatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus cruentatus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Bathygobius soporator",
+    "group": "missing"
+  },
+  {
+    "speciees": "Bathygobius soporator",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus acronotus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mugilcephalus",
+    "group": "mullets"
+  },
+  {
+    "species": "Strongylura marina",
+    "group": "missing"
+  },
+  {
+    "speciees": "Strongylura marina",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Tetrapturus spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Tetrapturus spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Condylactis gigantea",
+    "group": "missing"
+  },
+  {
+    "speciees": "Condylactis gigantea",
+    "group": "shrimp"
+  },
+  {
+    "species": "Anisotremus virginicus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Anisotrimus virginicuus",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Ocyurus chrysurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ocyurus chrysurus",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Pomatomus saltatrix",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pomatomus saltatrix",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Menticirrhus americanus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menticirrhus americanus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Caulolatilus spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caulolatilus spp.",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Antennarius multiocellatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Antennarius multiocellatus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Gymnothorax moringa",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gymnothorax moringa",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Sphyrna mokarran",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna mokarran",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus isodon",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Octopus sp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Octopus sp.",
+    "group": "octopods"
+  },
+  {
+    "species": "Epinephelus niveatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus niveatus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Scorpaena calcarata",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scorpaena calcarata",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Coryphaena hippurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Coryphaena hippurus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Paralichthys lethostigma",
+    "group": "missing"
+  },
+  {
+    "speciees": "Paralichthys lethostigma",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Stomatopods",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stomatopods",
+    "group": "squid"
+  },
+  {
+    "species": "Hippocampus zosterae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Hippocampus zosterae",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Panulirus argus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Panulirus argus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Rachycentron canadum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Rachycentron canadium",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Decapterus punctatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Decapterus punctatus",
+    "group": "large crabs"
+  },
+  {
+    "species": "Paralichthys albigutta",
+    "group": "missing"
+  },
+  {
+    "speciees": "Paralichthys albigutta",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Etropus rimosus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Etropus rimosus",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Syacium papillosum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Syacium papillosum",
+    "group": "sessile epibenthos"
+  },
+  {
+    "species": "Menidia beryllina",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menidia beryllina",
+    "group": "shrimp"
+  },
+  {
+    "species": "Holocentrus coruscus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Holocentrus coruscus",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Urolophus jamaicensis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Urolophus jamaicensis",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Mobulidae spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mobulidae spp.",
+    "group": "Dolphins"
+  },
+  {
+    "species": "Citharichthys macrops",
+    "group": "missing"
+  },
+  {
+    "speciees": "Citharichthys macrops",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Rhomboplites aurorubens",
+    "group": "missing"
+  },
+  {
+    "speciees": "Rhomboplites aurorubens",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Dasyatis say",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dasyatis say",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Mellita quinquiesperfora",
+    "group": "missing"
+  },
+  {
+    "speciees": "Melitta quinquiesperfora",
+    "group": "shrimp"
+  },
+  {
+    "species": "Ogcocephalus nasutus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ogcocephalus nasutus",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Hippocampus erectus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Hippocampus erectus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Archosargus probatocephalus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Archosargus probatocephalus",
+    "group": "jacks"
+  },
+  {
+    "species": "Epinephelus flavolimbatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus flavoimbaatus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Mycteroperca interstitialis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mycteroperca interstitialis",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Jenkinsia lamprotaenia",
+    "group": "missing"
+  },
+  {
+    "speciees": "Jenkinsia lamprotaenia",
+    "group": "shrimp"
+  },
+  {
+    "species": "Gobiosoma robustum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gobiosoma robustum",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Haemulon plumieri",
+    "group": "missing"
+  },
+  {
+    "speciees": "Haemulon plumieri",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Diplectrum bivittatum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Diplectrum bivittatum",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Oligoplites saurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Oligoplites saurus",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna tiburo",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Epinephelus drummondhayi",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus drummondhayi",
+    "group": "Grouper"
+  },
+  {
+    "species": "Malacanthidae spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Malacanthidae spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Centropomus undecimalis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Centropomus undecimalis",
+    "group": "Jacks"
+  },
+  {
+    "species": "Pontinus longispinis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pontinus longispinis",
+    "group": "Mullets"
+  },
+  {
+    "species": "Chasmodes saburrae",
+    "group": "missing"
+  },
+  {
+    "speciees": "ChaSmodes saburrae",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Diplectrum formosum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Diplectrum formosum",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Chloroscombrus chrysurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Chloroscombrus chrysurus",
+    "group": "jacks"
+  },
+  {
+    "species": "Sciaenops ocellatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sciaenops ocellatus",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Serranus notospilus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Seerranus notospilus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Sphoeroides nephelus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphoeroides nephelus",
+    "group": "carniv. jellyfish"
+  },
+  {
+    "species": "Epinephelus morio",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus morio",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Eucinostomus spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Eucinostomus spp.",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Eucinostomus harengulus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Eucinostomus harengulus",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Gymnothorax vicinus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gymnothorax vicinus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Pomacentrus variabilis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pomacentrus variabilis",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Tursiops truncatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Tursiops truncatus",
+    "group": "Dolphins"
+  },
+  {
+    "species": "Odontaspis taurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Odontaspis taurus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Brevoortia smithi",
+    "group": "missing"
+  },
+  {
+    "speciees": "Brevoortia smithi",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ariopsis felis",
+    "group": "other snapper"
+  },
+  {
+    "species": "Bairdiella chrysoura",
+    "group": "missing"
+  },
+  {
+    "speciees": "Bairdiella chrysoura",
+    "group": "shrimp"
+  },
+  {
+    "species": "Gymnura micrura",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gymnura micrura",
+    "group": "Jacks"
+  },
+  {
+    "species": "Pomacanthus arcuatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pomacanthus arcuatus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Synagrops spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Synagrops spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "missing"
+  },
+  {
+    "speciees": "Acanthocybium solandri",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Chromis cyanea",
+    "group": "missing"
+  },
+  {
+    "speciees": "Chromis cyanea",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Leiostomus xanthurus",
+    "group": "Jacks"
+  },
+  {
+    "species": "Diplodus holbrooki",
+    "group": "missing"
+  },
+  {
+    "speciees": "Diplodus holbrooki",
+    "group": "other snapper"
+  },
+  {
+    "species": "Scomberomorus maculatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scomberomorus maculatus",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Gobiosoma spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gobiosoma spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Rhizoprionodon terraenovae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Rhizoprionodon terraenovae",
+    "group": "shrimp"
+  },
+  {
+    "species": "Megalops atlanticus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Megalops atlanticus",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thunnus albacares",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Epinephelus itajara",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus itajara",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Chaetodon ocellatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Chaeetodon ocellatus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Lutjanus campechanus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lutjanus campechanus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Sphoeroides spengleri",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphoeroides spengleri",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Scorpaena brasiliensis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scorpaena brasiliensis",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Menippe spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menippe spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Caranx crysos",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caranx crysos",
+    "group": "Spanish Mackerel"
+  },
+  {
+    "species": "Seriola dumerili",
+    "group": "missing"
+  },
+  {
+    "speciees": "Seriola dumerili",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Halieutichthys aculeatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Halieutichthys aculeatus",
+    "group": "Spanish Mackerel"
+  },
+  {
+    "species": "Pomacentrus leucostictus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pomacentrus leucostictus",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Stomolophus eleagris",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stomolophus eleagris",
+    "group": "carniv. jellyfish"
+  },
+  {
+    "species": "Aluterus schoepfi",
+    "group": "missing"
+  },
+  {
+    "speciees": "Aluterus schoepfi",
+    "group": "shrimp"
+  },
+  {
+    "species": "Holocentrus ascensionis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Holocentrus ascensionis",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Menticirrhus saxatilis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menticirrhus saxatilis",
+    "group": "Small coastal sharks"
+  }
+]

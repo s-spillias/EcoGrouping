@@ -1,0 +1,246 @@
+[
+  {
+    "species": "Gempylidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Stoatopoda",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Hyaloteuthis pelagica",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Malacanthidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Myctophidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Amphipoda",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "ciliates",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Tetrapturus angustirostris",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Lampris guttatus",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Xiphas gladius",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Priocane glauca",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Noemidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "MegaLopa",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Phronima",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Scombrolabracidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Scyllaridae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Moroteuthis",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Histioteuthiidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Stenoetius",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Harpiosquillidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Chiasmodontidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Makaira indica",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Bolitoidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Pterygioeuthis",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Moroteuthis lonnbergi",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Hyperiidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Acanthochelus",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Ophiiidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Scorpionidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Argonautidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Carcharhinidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "rotifers",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "sarcinids",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Oplophorus",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Tetrapturus audax",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Omastrephidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Tetrapturidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Sepiolidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Alopiidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Enoplopteutidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "autotrophic dinoflagellates",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Ampithreitidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "diatoms",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "pelagophytes",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Triacanthidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Coryphaenidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Scopelarchidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "copepod nauplii",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Carinariidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "bacterioplankton",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Sphyrnidae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Alepisauridae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Maurolicus",
+    "group": "Other billfish"
+  },
+  {
+    "species": "prymnesiophytes",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Diretmidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Omosudidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Octopoteutidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Zanclidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "Other billfish"
+  }
+]

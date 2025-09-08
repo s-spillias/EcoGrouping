@@ -1,0 +1,1582 @@
+{
+    "dataset_model_statistics": {
+        "Geers_GulfofMexico.json__ollama_deepseek-r1:14b": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 42.25,
+                "std_dev": 13.88119231190174
+            },
+            "common_taxon_count": {
+                "mean": 40.75,
+                "std_dev": 15.006248698458919
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 11.75,
+                "std_dev": 0.4330127018922193
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Geers_GulfofMexico.json__ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 106.2,
+                "std_dev": 8.37615663654877
+            },
+            "common_taxon_count": {
+                "mean": 106.2,
+                "std_dev": 8.37615663654877
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 7.8,
+                "std_dev": 1.16619037896906
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Geers_GulfofMexico.json__ollama_deepseek-r1:70b": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 47.6,
+                "std_dev": 24.65441136997596
+            },
+            "common_taxon_count": {
+                "mean": 46.8,
+                "std_dev": 24.4491308638978
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 13.2,
+                "std_dev": 3.4292856398964493
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Geers_GulfofMexico.json__ollama_gpt-oss:120b": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 107.33333333333333,
+                "std_dev": 8.993825042154695
+            },
+            "common_taxon_count": {
+                "mean": 107.33333333333333,
+                "std_dev": 8.993825042154695
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 29.333333333333332,
+                "std_dev": 12.283683848458853
+            },
+            "fuzzy_fix_count": {
+                "mean": 1.0,
+                "std_dev": 0.816496580927726
+            }
+        },
+        "Geers_GulfofMexico.json__ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 114.6,
+                "std_dev": 2.5768197453450252
+            },
+            "common_taxon_count": {
+                "mean": 112.2,
+                "std_dev": 2.0396078054371136
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 23.0,
+                "std_dev": 3.687817782917155
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Geers_GulfofMexico.json__ollama_gpt-oss:latest": {},
+        "Geers_GulfofMexico.json__ollama_gemma3n:latest": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 110.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 98.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 6.0,
+                "std_dev": 0.0
+            },
+            "fuzzy_fix_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            }
+        },
+        "Geers_GulfofMexico.json__claude-sonnet-4-20250514": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 119.8,
+                "std_dev": 0.4
+            },
+            "common_taxon_count": {
+                "mean": 119.8,
+                "std_dev": 0.4
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 36.6,
+                "std_dev": 6.829348431585549
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Geers_GulfofMexico.json__gemini-2.5-flash": {
+            "total_reference_taxon": {
+                "mean": 120.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 119.0,
+                "std_dev": 1.2649110640673518
+            },
+            "common_taxon_count": {
+                "mean": 119.0,
+                "std_dev": 1.2649110640673518
+            },
+            "reference_groups_count": {
+                "mean": 36.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 21.2,
+                "std_dev": 2.9257477676655586
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_gemma3n:latest": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 14.4,
+                "std_dev": 2.0591260281974
+            },
+            "common_taxon_count": {
+                "mean": 14.2,
+                "std_dev": 1.7204650534085253
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 5.8,
+                "std_dev": 1.32664991614216
+            },
+            "fuzzy_fix_count": {
+                "mean": 5.0,
+                "std_dev": 1.0954451150103321
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 14.8,
+                "std_dev": 1.4696938456699067
+            },
+            "common_taxon_count": {
+                "mean": 14.8,
+                "std_dev": 1.4696938456699067
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 7.2,
+                "std_dev": 0.9797958971132712
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_deepseek-r1:14b": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 14.0,
+                "std_dev": 1.6733200530681511
+            },
+            "common_taxon_count": {
+                "mean": 14.0,
+                "std_dev": 1.6733200530681511
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 5.2,
+                "std_dev": 0.7483314773547882
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_gpt-oss:120b": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 9.2,
+                "std_dev": 2.5612496949731396
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_gpt-oss:latest": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 16.2,
+                "std_dev": 0.9797958971132713
+            },
+            "common_taxon_count": {
+                "mean": 16.2,
+                "std_dev": 0.9797958971132713
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 12.4,
+                "std_dev": 3.7202150475476548
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_deepseek-r1:70b": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 16.2,
+                "std_dev": 0.7483314773547883
+            },
+            "common_taxon_count": {
+                "mean": 16.2,
+                "std_dev": 0.7483314773547883
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 7.4,
+                "std_dev": 0.4898979485566356
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 8.4,
+                "std_dev": 0.7999999999999999
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__claude-sonnet-4-20250514": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 8.8,
+                "std_dev": 0.9797958971132712
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Mcmullen_Penguins.json__gemini-2.5-flash": {
+            "total_reference_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 17.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 10.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 8.6,
+                "std_dev": 0.48989794855663565
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Allain_WarmPool.json__ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 101.2,
+                "std_dev": 5.741080037762929
+            },
+            "common_taxon_count": {
+                "mean": 101.2,
+                "std_dev": 5.741080037762929
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 11.6,
+                "std_dev": 2.0591260281974
+            },
+            "fuzzy_fix_count": {
+                "mean": 1.0,
+                "std_dev": 1.0954451150103321
+            }
+        },
+        "Allain_WarmPool.json__ollama_deepseek-r1:14b": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 41.8,
+                "std_dev": 12.983065893693986
+            },
+            "common_taxon_count": {
+                "mean": 41.8,
+                "std_dev": 12.983065893693986
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 12.2,
+                "std_dev": 1.9390719429665315
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.6,
+                "std_dev": 0.48989794855663565
+            }
+        },
+        "Allain_WarmPool.json__ollama_gemma3n:latest": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 118.66666666666667,
+                "std_dev": 4.496912521077347
+            },
+            "common_taxon_count": {
+                "mean": 103.0,
+                "std_dev": 2.160246899469287
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 7.0,
+                "std_dev": 0.0
+            },
+            "fuzzy_fix_count": {
+                "mean": 39.666666666666664,
+                "std_dev": 3.7712361663282534
+            }
+        },
+        "Allain_WarmPool.json__ollama_deepseek-r1:70b": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 55.2,
+                "std_dev": 8.4
+            },
+            "common_taxon_count": {
+                "mean": 52.4,
+                "std_dev": 9.13454979733539
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 13.4,
+                "std_dev": 1.2
+            },
+            "fuzzy_fix_count": {
+                "mean": 1.0,
+                "std_dev": 0.6324555320336759
+            }
+        },
+        "Allain_WarmPool.json__ollama_gpt-oss:latest": {},
+        "Allain_WarmPool.json__ollama_gpt-oss:120b": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 116.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 116.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 16.0,
+                "std_dev": 2.0
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Allain_WarmPool.json__ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 110.6,
+                "std_dev": 3.49857113690718
+            },
+            "common_taxon_count": {
+                "mean": 107.8,
+                "std_dev": 3.6000000000000005
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 20.2,
+                "std_dev": 1.9390719429665317
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2,
+                "std_dev": 0.4
+            }
+        },
+        "Allain_WarmPool.json__claude-sonnet-4-20250514": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 118.6,
+                "std_dev": 0.4898979485566356
+            },
+            "common_taxon_count": {
+                "mean": 118.6,
+                "std_dev": 0.4898979485566356
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 25.6,
+                "std_dev": 3.1999999999999997
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2,
+                "std_dev": 0.4
+            }
+        },
+        "Allain_WarmPool.json__gemini-2.5-flash": {
+            "total_reference_taxon": {
+                "mean": 119.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 117.4,
+                "std_dev": 1.3564659966250536
+            },
+            "common_taxon_count": {
+                "mean": 117.4,
+                "std_dev": 1.3564659966250536
+            },
+            "reference_groups_count": {
+                "mean": 23.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 18.8,
+                "std_dev": 2.9257477676655586
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2,
+                "std_dev": 0.4000000000000001
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__ollama_deepseek-r1:14b": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 42.8,
+                "std_dev": 12.253978945632312
+            },
+            "common_taxon_count": {
+                "mean": 41.6,
+                "std_dev": 12.815615474880635
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 9.2,
+                "std_dev": 0.9797958971132712
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2,
+                "std_dev": 0.4000000000000001
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 159.5,
+                "std_dev": 24.387496796514398
+            },
+            "common_taxon_count": {
+                "mean": 141.5,
+                "std_dev": 18.2414363469547
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 8.75,
+                "std_dev": 1.920286436967152
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.5,
+                "std_dev": 0.5
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__ollama_deepseek-r1:70b": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 52.4,
+                "std_dev": 28.806943607401323
+            },
+            "common_taxon_count": {
+                "mean": 48.6,
+                "std_dev": 28.83470131629596
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 10.8,
+                "std_dev": 1.1661903789690602
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.4,
+                "std_dev": 0.8
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 151.4,
+                "std_dev": 18.0288657435791
+            },
+            "common_taxon_count": {
+                "mean": 120.0,
+                "std_dev": 8.024961059095553
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 18.0,
+                "std_dev": 3.22490309931942
+            },
+            "fuzzy_fix_count": {
+                "mean": 1.2,
+                "std_dev": 1.4696938456699067
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__ollama_gpt-oss:120b": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 107.0,
+                "std_dev": 1.0
+            },
+            "common_taxon_count": {
+                "mean": 106.0,
+                "std_dev": 1.0
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 12.0,
+                "std_dev": 1.0
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.5,
+                "std_dev": 0.5
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__ollama_gpt-oss:latest": {},
+        "Chagaris_WestFloridaShelf.json__ollama_gemma3n:latest": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 142.0,
+                "std_dev": 34.40930106817051
+            },
+            "common_taxon_count": {
+                "mean": 135.66666666666666,
+                "std_dev": 36.81787005729087
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 5.666666666666667,
+                "std_dev": 0.4714045207910317
+            },
+            "fuzzy_fix_count": {
+                "mean": 51.0,
+                "std_dev": 13.140268896284683
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__claude-sonnet-4-20250514": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 230.6,
+                "std_dev": 0.4898979485566356
+            },
+            "common_taxon_count": {
+                "mean": 230.4,
+                "std_dev": 0.4898979485566356
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 62.8,
+                "std_dev": 9.724196624914574
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Chagaris_WestFloridaShelf.json__gemini-2.5-flash": {
+            "total_reference_taxon": {
+                "mean": 232.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 227.2,
+                "std_dev": 4.354308211415448
+            },
+            "common_taxon_count": {
+                "mean": 227.2,
+                "std_dev": 4.354308211415448
+            },
+            "reference_groups_count": {
+                "mean": 41.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 14.0,
+                "std_dev": 2.3664319132398464
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.6,
+                "std_dev": 0.48989794855663565
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 40.8,
+                "std_dev": 1.9390719429665315
+            },
+            "common_taxon_count": {
+                "mean": 40.8,
+                "std_dev": 1.9390719429665315
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 9.4,
+                "std_dev": 1.624807680927192
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_deepseek-r1:14b": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 31.0,
+                "std_dev": 7.745966692414834
+            },
+            "common_taxon_count": {
+                "mean": 31.0,
+                "std_dev": 7.745966692414834
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 9.0,
+                "std_dev": 3.0983866769659336
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_deepseek-r1:70b": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 37.0,
+                "std_dev": 4.560701700396552
+            },
+            "common_taxon_count": {
+                "mean": 36.6,
+                "std_dev": 4.454211490264017
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 11.6,
+                "std_dev": 1.624807680927192
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2,
+                "std_dev": 0.4
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_gemma3n:latest": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 36.2,
+                "std_dev": 3.249615361854384
+            },
+            "common_taxon_count": {
+                "mean": 35.2,
+                "std_dev": 2.9933259094191533
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 9.8,
+                "std_dev": 1.1661903789690602
+            },
+            "fuzzy_fix_count": {
+                "mean": 10.0,
+                "std_dev": 2.0976176963403033
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 41.4,
+                "std_dev": 0.4898979485566356
+            },
+            "common_taxon_count": {
+                "mean": 41.4,
+                "std_dev": 0.4898979485566356
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 15.4,
+                "std_dev": 1.3564659966250536
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2,
+                "std_dev": 0.4000000000000001
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_gpt-oss:120b": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 19.4,
+                "std_dev": 8.957678270623477
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Dahood_WestAntarctic.json__ollama_gpt-oss:latest": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 42.6,
+                "std_dev": 0.7999999999999999
+            },
+            "common_taxon_count": {
+                "mean": 42.6,
+                "std_dev": 0.7999999999999999
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 10.6,
+                "std_dev": 0.7999999999999999
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.6,
+                "std_dev": 1.2
+            }
+        },
+        "Dahood_WestAntarctic.json__claude-sonnet-4-20250514": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 21.8,
+                "std_dev": 3.4871191548325386
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Dahood_WestAntarctic.json__gemini-2.5-flash": {
+            "total_reference_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "common_taxon_count": {
+                "mean": 43.0,
+                "std_dev": 0.0
+            },
+            "reference_groups_count": {
+                "mean": 28.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 18.0,
+                "std_dev": 1.7888543819998317
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_deepseek-r1:14b": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 36.4,
+                "std_dev": 1.9595917942265426
+            },
+            "common_taxon_count": {
+                "mean": 33.4,
+                "std_dev": 3.8781438859330635
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 14.0,
+                "std_dev": 2.1908902300206643
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 130.25,
+                "std_dev": 6.7592529172978875
+            },
+            "common_taxon_count": {
+                "mean": 124.5,
+                "std_dev": 2.5
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 12.5,
+                "std_dev": 4.031128874149275
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.25,
+                "std_dev": 0.4330127018922193
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_deepseek-r1:70b": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 58.4,
+                "std_dev": 29.54048070021881
+            },
+            "common_taxon_count": {
+                "mean": 58.2,
+                "std_dev": 29.714642854996594
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 14.2,
+                "std_dev": 3.9191835884530852
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_gemma3n:latest": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 124.33333333333333,
+                "std_dev": 3.858612300930075
+            },
+            "common_taxon_count": {
+                "mean": 108.0,
+                "std_dev": 3.559026084010437
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 8.0,
+                "std_dev": 0.816496580927726
+            },
+            "fuzzy_fix_count": {
+                "mean": 51.333333333333336,
+                "std_dev": 9.809292646374773
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_gpt-oss:120b": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 73.66666666666667,
+                "std_dev": 53.080651423617205
+            },
+            "common_taxon_count": {
+                "mean": 72.66666666666667,
+                "std_dev": 52.63923336152312
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 24.0,
+                "std_dev": 17.146428199482248
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.3333333333333333,
+                "std_dev": 0.4714045207910317
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 125.0,
+                "std_dev": 2.1213203435596424
+            },
+            "common_taxon_count": {
+                "mean": 125.0,
+                "std_dev": 2.1213203435596424
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 22.25,
+                "std_dev": 2.165063509461097
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        },
+        "Montero_CanaryIslands.json__ollama_gpt-oss:latest": {},
+        "Montero_CanaryIslands.json__claude-sonnet-4-20250514": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 132.8,
+                "std_dev": 0.4
+            },
+            "common_taxon_count": {
+                "mean": 132.8,
+                "std_dev": 0.4
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 39.0,
+                "std_dev": 15.019986684414869
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.4,
+                "std_dev": 0.48989794855663565
+            }
+        },
+        "Montero_CanaryIslands.json__gemini-2.5-flash": {
+            "total_reference_taxon": {
+                "mean": 133.0,
+                "std_dev": 0.0
+            },
+            "total_generated_taxon": {
+                "mean": 131.4,
+                "std_dev": 2.727636339397171
+            },
+            "common_taxon_count": {
+                "mean": 131.4,
+                "std_dev": 2.727636339397171
+            },
+            "reference_groups_count": {
+                "mean": 31.0,
+                "std_dev": 0.0
+            },
+            "generated_groups_count": {
+                "mean": 20.2,
+                "std_dev": 2.1354156504062622
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.0,
+                "std_dev": 0.0
+            }
+        }
+    },
+    "dataset_statistics": {
+        "Geers_GulfofMexico.json": {
+            "taxon_diff": {
+                "mean": -0.21641414141414142,
+                "std_dev": 0.2767543128824017
+            },
+            "groups_diff": {
+                "mean": -0.45286195286195285,
+                "std_dev": 0.3056309096312698
+            },
+            "fuzzy_fix_count": {
+                "mean": 1.3333333333333333,
+                "std_dev": 7.022330903135462
+            },
+            "fuzzy_ratio": {
+                "mean": 0.011111111111111112,
+                "std_dev": 0.058519424192795516
+            }
+        },
+        "Mcmullen_Penguins.json": {
+            "taxon_diff": {
+                "mean": -0.06274509803921569,
+                "std_dev": 0.09230276310541036
+            },
+            "groups_diff": {
+                "mean": -0.18888888888888886,
+                "std_dev": 0.26095740156603864
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.5555555555555556,
+                "std_dev": 1.613217014478359
+            },
+            "fuzzy_ratio": {
+                "mean": 0.032679738562091505,
+                "std_dev": 0.09489511849872699
+            }
+        },
+        "Allain_WarmPool.json": {
+            "taxon_diff": {
+                "mean": -0.2228091236494598,
+                "std_dev": 0.2536834790623744
+            },
+            "groups_diff": {
+                "mean": -0.30186335403726705,
+                "std_dev": 0.25478257841198326
+            },
+            "fuzzy_fix_count": {
+                "mean": 3.857142857142857,
+                "std_dev": 11.040556034503895
+            },
+            "fuzzy_ratio": {
+                "mean": 0.03241296518607443,
+                "std_dev": 0.09277778180255374
+            }
+        },
+        "Chagaris_WestFloridaShelf.json": {
+            "taxon_diff": {
+                "mean": -0.4264705882352941,
+                "std_dev": 0.31587876027476497
+            },
+            "groups_diff": {
+                "mean": -0.533715925394548,
+                "std_dev": 0.46147615047754936
+            },
+            "fuzzy_fix_count": {
+                "mean": 4.9411764705882355,
+                "std_dev": 14.871886577721835
+            },
+            "fuzzy_ratio": {
+                "mean": 0.02129817444219067,
+                "std_dev": 0.06410295938673204
+            }
+        },
+        "Dahood_WestAntarctic.json": {
+            "taxon_diff": {
+                "mean": -0.0785529715762274,
+                "std_dev": 0.1211178120711844
+            },
+            "groups_diff": {
+                "mean": -0.503968253968254,
+                "std_dev": 0.207323706250866
+            },
+            "fuzzy_fix_count": {
+                "mean": 1.2222222222222223,
+                "std_dev": 3.2172375237073525
+            },
+            "fuzzy_ratio": {
+                "mean": 0.028423772609819122,
+                "std_dev": 0.07481947729551984
+            }
+        },
+        "Montero_CanaryIslands.json": {
+            "taxon_diff": {
+                "mean": -0.26603272888102614,
+                "std_dev": 0.3192196691532706
+            },
+            "groups_diff": {
+                "mean": -0.36242884250474383,
+                "std_dev": 0.3949285860558432
+            },
+            "fuzzy_fix_count": {
+                "mean": 4.647058823529412,
+                "std_dev": 14.816291416865454
+            },
+            "fuzzy_ratio": {
+                "mean": 0.034940291906236175,
+                "std_dev": 0.11140068734485305
+            }
+        }
+    },
+    "model_statistics": {
+        "ollama_deepseek-r1:14b": {
+            "taxon_diff": {
+                "mean": -0.5520991414538533,
+                "std_dev": 0.267711117792315
+            },
+            "groups_diff": {
+                "mean": -0.6019004116764443,
+                "std_dev": 0.13521221155028504
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.13793103448275862,
+                "std_dev": 0.3448275862068966
+            },
+            "fuzzy_ratio": {
+                "mean": 0.001017945822799988,
+                "std_dev": 0.0026286112824127077
+            }
+        },
+        "ollama_qwen3:30b-a3b-instruct-2507-q4_K_M": {
+            "taxon_diff": {
+                "mean": -0.14434842364329345,
+                "std_dev": 0.12335853905996398
+            },
+            "groups_diff": {
+                "mean": -0.5946355123310229,
+                "std_dev": 0.1964165658613502
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.2857142857142857,
+                "std_dev": 0.6468132241526725
+            },
+            "fuzzy_ratio": {
+                "mean": 0.002077010477512239,
+                "std_dev": 0.005174389278565228
+            }
+        },
+        "ollama_deepseek-r1:70b": {
+            "taxon_diff": {
+                "mean": -0.45308052579914343,
+                "std_dev": 0.3012892545939044
+            },
+            "groups_diff": {
+                "mean": -0.5291599621866786,
+                "std_dev": 0.1715295135217905
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.26666666666666666,
+                "std_dev": 0.5734883511361752
+            },
+            "fuzzy_ratio": {
+                "mean": 0.0024631103443783285,
+                "std_dev": 0.005560147386897406
+            }
+        },
+        "ollama_gpt-oss:120b": {
+            "taxon_diff": {
+                "mean": -0.14070979934623576,
+                "std_dev": 0.2581481817577408
+            },
+            "groups_diff": {
+                "mean": -0.25960094973119635,
+                "std_dev": 0.36882571414992504
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.25,
+                "std_dev": 0.5361902647381804
+            },
+            "fuzzy_ratio": {
+                "mean": 0.0018414570910033705,
+                "std_dev": 0.004210191911355904
+            }
+        },
+        "ollama_qwen3:235b-a22b-instruct-2507-q4_K_M": {
+            "taxon_diff": {
+                "mean": -0.12538032255619652,
+                "std_dev": 0.16711269376243934
+            },
+            "groups_diff": {
+                "mean": -0.3240745349853266,
+                "std_dev": 0.1756993454115559
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.27586206896551724,
+                "std_dev": 0.7832977028690031
+            },
+            "fuzzy_ratio": {
+                "mean": 0.0019834911815014974,
+                "std_dev": 0.0053555636213548025
+            }
+        },
+        "ollama_gpt-oss:latest": {
+            "taxon_diff": {
+                "mean": -0.02818057455540356,
+                "std_dev": 0.04680122285526785
+            },
+            "groups_diff": {
+                "mean": -0.19071428571428575,
+                "std_dev": 0.5050969799787696
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.3,
+                "std_dev": 0.9000000000000001
+            },
+            "fuzzy_ratio": {
+                "mean": 0.0069767441860465115,
+                "std_dev": 0.020930232558139538
+            }
+        },
+        "ollama_gemma3n:latest": {
+            "taxon_diff": {
+                "mean": -0.20634001317152023,
+                "std_dev": 0.12527167262842
+            },
+            "groups_diff": {
+                "mean": -0.6540731080171952,
+                "std_dev": 0.16779489706722503
+            },
+            "fuzzy_fix_count": {
+                "mean": 27.1,
+                "std_dev": 21.1232099833335
+            },
+            "fuzzy_ratio": {
+                "mean": 0.28962115475489997,
+                "std_dev": 0.08028023004696415
+            }
+        },
+        "claude-sonnet-4-20250514": {
+            "taxon_diff": {
+                "mean": -0.0022380537211859944,
+                "std_dev": 0.0035451854588191742
+            },
+            "groups_diff": {
+                "mean": 0.09634223445019462,
+                "std_dev": 0.35156058198662266
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.1,
+                "std_dev": 0.30000000000000004
+            },
+            "fuzzy_ratio": {
+                "mean": 0.0007813651776500072,
+                "std_dev": 0.0023478014686783063
+            }
+        },
+        "gemini-2.5-flash": {
+            "taxon_diff": {
+                "mean": -0.009083073640829591,
+                "std_dev": 0.014954925853957524
+            },
+            "groups_diff": {
+                "mean": -0.3496310576743649,
+                "std_dev": 0.18638960063963017
+            },
+            "fuzzy_fix_count": {
+                "mean": 0.13333333333333333,
+                "std_dev": 0.33993463423951903
+            },
+            "fuzzy_ratio": {
+                "mean": 0.0007111465275765479,
+                "std_dev": 0.0019251131393110768
+            }
+        }
+    }
+}

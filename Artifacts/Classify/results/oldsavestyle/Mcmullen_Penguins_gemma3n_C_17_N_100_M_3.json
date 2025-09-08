@@ -1,0 +1,70 @@
+[
+  {
+    "species": "Spheniscus mendiculus",
+    "group": "Herbivorous Zooplaankton"
+  },
+  {
+    "species": "Sphyraena idiates",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Mugil galapagensis",
+    "group": "Mullet"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "Mullet"
+  },
+  {
+    "species": "Mugil curema",
+    "group": "Mullet"
+  },
+  {
+    "species": "Engraulidae",
+    "group": "Herrings"
+  },
+  {
+    "species": "Anchoa naso",
+    "group": "Anchovy"
+  },
+  {
+    "species": "Sardinops sagax sagax",
+    "group": "Sardines"
+  },
+  {
+    "species": "ClupEidae",
+    "group": "Herrings"
+  },
+  {
+    "species": "Opisthonema berlangai",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Xenichthys agassizii",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Xenocyps jessiae",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Panulirus gracilis",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Panulirus penicillatus",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Scyllaridea astorii",
+    "group": "Decapods"
+  },
+  {
+    "species": "Functional group spp. (predaitory)",
+    "group": "Predatory Zooplaankton"
+  },
+  {
+    "species": "Functional group spp. (herbivorous)",
+    "group": "Herbivorous Zooplaankton"
+  }
+]

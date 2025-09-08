@@ -1,0 +1,70 @@
+[
+  {
+    "species": "Anchoa naso",
+    "group": "Anchovy"
+  },
+  {
+    "species": "Xenichthys agassizi",
+    "group": "Salema"
+  },
+  {
+    "species": "Functional group spp. (predatory)",
+    "group": "Predatory Zooplankton"
+  },
+  {
+    "species": "Sardinops sagax sagax",
+    "group": "Sardines"
+  },
+  {
+    "species": "Sphyraena idiates",
+    "group": "Barracudas"
+  },
+  {
+    "species": "Opisthonema berlangai",
+    "group": "Herrings"
+  },
+  {
+    "species": "Mugil curema",
+    "group": "Mullet"
+  },
+  {
+    "species": "Xenocys jessiae",
+    "group": "Salema"
+  },
+  {
+    "species": "Spheniscus mendiculus",
+    "group": "Gal\u00e1pagos Penguin"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "Mullet"
+  },
+  {
+    "species": "Clupeidae",
+    "group": "Herrings"
+  },
+  {
+    "species": "Engraulidae",
+    "group": "Anchovy"
+  },
+  {
+    "species": "Panulirus gracilis",
+    "group": "Decapods"
+  },
+  {
+    "species": "Scyllaridea astori",
+    "group": "Decapods"
+  },
+  {
+    "species": "Panulirus penicillatus",
+    "group": "Decapods"
+  },
+  {
+    "species": "Functional group spp. (herbivorous)",
+    "group": "Herbivorous Zooplankton"
+  },
+  {
+    "species": "Mugil galapagensis",
+    "group": "Mullet"
+  }
+]

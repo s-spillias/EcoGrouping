@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Plesionika narval",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Balistes capriscus",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Muraena helena",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Boops boops",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Plesionika edwarsii",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Serranus atricauda",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Pelagia noctiluca",
+    "group": "Jellyfishes"
+  },
+  {
+    "species": "Sardina pilchardus",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Polyprion americanus",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Conger conger",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Thalasoma pavo",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Ophiodermatidae",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Phycis phycis",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Aphanopus carbo",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Pagellus acarne",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Oblada melanura",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Mustelus mustelus",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Antedonidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Thunnus albacores",
+    "group": "Tunanas"
+  },
+  {
+    "species": "Pachygrapsus marmoratus",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Plagusia depressa",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Merluccius merluccius",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Columbellidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Eriphia verrucosa",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Cancer spp.",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Serranus cabrilla",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Globicephala macrorhynchus",
+    "group": "Toothed whales"
+  },
+  {
+    "species": "Physeter macrocephalus",
+    "group": "Toothed whales"
+  },
+  {
+    "species": "Ophidiasteridae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Mora moro",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Zooplankton",
+    "group": "Zooplankton"
+  },
+  {
+    "species": "Actiniidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Serranus scriba",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Pontinus kuhlii",
+    "group": "Bathydemersals"
+  },
+  {
+    "species": "Tursiops truncatus",
+    "group": "Dolphins and beaked whales"
+  },
+  {
+    "species": "Isurus oxyrinchus",
+    "group": "Oceanic sharks"
+  },
+  {
+    "species": "DSL",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Trachurus trachurus",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Heterocarpus ensifer",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Beryx decadactylus",
+    "group": "Oceanic pelagics"
+  },
+  {
+    "species": "Caretta caretta",
+    "group": "Turtles"
+  },
+  {
+    "species": "Umbrina spp.",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Phytoplankton",
+    "group": "Phytoplankton"
+  },
+  {
+    "species": "Engraulis encrasicolus",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Pagrus pagrus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Apogon imberbis",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Solea solea",
+    "group": "Benthopelagics"
+  },
+  {
+    "species": "Aplysiidae",
+    "group": "Molluscs"
+  },
+  {
+    "species": "Diplodus sargus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Pagellus erythrinus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Sepia officinalis",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Chromis limbata",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Detritus",
+    "group": "Detritus"
+  },
+  {
+    "species": "Thunnus alalunga",
+    "group": "Tunas"
+  },
+  {
+    "species": "Helicolenus dactylopterus",
+    "group": "Bathydemersals"
+  },
+  {
+    "species": "Maja spp.",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Antimora rostrata",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Octopus vulgaris",
+    "group": "Benthic cephalopods"
+  },
+  {
+    "species": "Promethichthys prometeus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Grapsus adscensionis",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Pagrus auriga",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Scyllarides latus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Littorinidae",
+    "group": "Herbivorous and small invertebrate feeders"
+  },
+  {
+    "species": "Dentex gibbosus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Diplodus cervinus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Onuphidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Loligo spp.",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Cerithidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Sphyrna zygaena",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Trachurus picturatus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Dentex dentex",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Scorpaena spp.",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Pagellus bogaraveo",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Panulirus echinatus",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Enchelycore anatina",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Sparisoma cretense",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Illex condeitii",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Calonectris diomedea",
+    "group": "Seabirds"
+  },
+  {
+    "species": "Stenoteuthis pteropus",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Katsuwonus pelamis",
+    "group": "Skipjack tuna"
+  },
+  {
+    "species": "Chaceon affini",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Grapsidae",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Makaira nigricans",
+    "group": "Oceanic pelagics"
+  },
+  {
+    "species": "Muraena augusti",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Diplodus vulgaris",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Atherina presbyter",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Bulweria bulwerii",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Diplodus puntazzo",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Gymnothorax unicolor",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Ascididae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Scomber colias",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Beryx splendens",
+    "group": "Tunanas"
+  },
+  {
+    "species": "Polymixia nobilis",
+    "group": "Bathydemersals"
+  },
+  {
+    "species": "Physalia physalis",
+    "group": "Jellyfishes"
+  },
+  {
+    "species": "Argyrosomus regius",
+    "group": "Medium-sized coastal pelagics"
+  },
+  {
+    "species": "Bodianus scrofa",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Mullus surmuletus",
+    "group": "Bathydemersals"
+  }
+]

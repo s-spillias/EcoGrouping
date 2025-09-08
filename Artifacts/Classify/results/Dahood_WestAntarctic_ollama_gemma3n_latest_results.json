@@ -1,0 +1,6326 @@
+[
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 1,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 1,
+      "M": 1,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 1,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 1,
+      "M": 3,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 1,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 2,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplaunkton"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 2,
+      "M": 1,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Crestap Penguin"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 2,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Other Euphausiids"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 2,
+      "M": 3,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKerele Icefish"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 2,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Moreo teuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Gentoo Penguin"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 4,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Notothenia rosii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mega pteranodon novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Krill"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Macaroni Penguin"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 4,
+      "M": 1,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Aptenoodytes forsteri",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKerele Icefish"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thalasssoiica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Kriill"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Albatross"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 4,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Thalasssoica antarctica",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Champsocephalus gunnaari",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 4,
+      "M": 3,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Gobiono tothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Aptenodytes foersteri",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 4,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Humpback whale"
+      },
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Moreoeteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Albatross"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 8,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Humped Rockcod"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Gentoo Penguin"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Procellaria equinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Emperor Penguin"
+      },
+      {
+        "taxon": "Hydrurgus leptonyx",
+        "group": "Minke Whale"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Gobionothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera bonaeensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Physeteer macrcephalus",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Minke Whales"
+      },
+      {
+        "taxon": "Pygoscelis paku",
+        "group": "Humped Rockcod"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 8,
+      "M": 1,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Aptenodytes foersteri",
+        "group": "MacKarel Icefish"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gobiono tothen gibbifrons",
+        "group": "Mackearel Icefish"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 8,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Kriill"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Fregatta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gobionothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Crustaceans"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Crustaceans"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Physeter macrcephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 8,
+      "M": 3,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thalasssoica antarctica",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Micktophids"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Copepods"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gobionotothen gibbiferon",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Albatross"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Empereur Penguin"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Cephelopods"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Cephalo pods"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 8,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thalasssoiica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Euphausia superb",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Apteno dytes forsteri",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Crustaceans"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Salp"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplaankton"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 16,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Salpa thomsponi",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Apteno dytes forsteri",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 16,
+      "M": 1,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytopla nkton"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Lobodon carcino phagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Crinostrap Penguin"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Apteno dytes forsteri",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Small phytopla nkton"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Thaussarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gobiono tothen giffberifrons",
+        "group": "Mackedel Rockcod"
+      },
+      {
+        "taxon": "Halo baena caerulea",
+        "group": "S Elephant Seal"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Gentoo Penguin"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 16,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Apteodytes foersteri",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Gentoo Penguin"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephelopods"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Procellariaria equinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Moreoteutis sp.",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Mega pteran novaeangliae",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Polychaeetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Nanoflagellates",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Elephant Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 16,
+      "M": 3,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Minke Whales"
+      },
+      {
+        "taxon": "Gobiono tothen giffbefrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Macaroni Penguin"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Salp"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 16,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Physeteer maccrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Apteonodytes forsteri",
+        "group": "Empperor Penguin"
+      },
+      {
+        "taxon": "Balaenoptera bonaeensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Moreoteutis sp.",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Benthic Invertebrates"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 32,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Moreoeteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Balaenoptera boanerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Apteonodytes forsteri",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Notothenia rosii",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Gobionotothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 32,
+      "M": 1,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Moreoeteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thaussarche melanophris",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Euphausia crystallorophia",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Gentoo Penguin"
+      },
+      {
+        "taxon": "Procellariidae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Mega pteranura novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Gobionothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Fulmarus glacialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephelopods"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balenopteryx acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balenopteryx musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fregetta tr tropics",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thalasssoica antarctica",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Euphausia superb a",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small Phytoplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 32,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera boanerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Aptenodytes foersteri",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Salp"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Salpa thomsponi",
+        "group": "Salp"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Moreoeteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Fregatta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Gobionothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Procellariidae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Thaussarche melanophris",
+        "group": "Antarctic Fur Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 32,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Champsocephalus gunnaari",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Aptenodytes foersteri",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acuctorostrata",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Notothenia rosii",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 43,
+      "M": 0,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Apteonodytes forsteri",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Mega pteran novaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fulmarus glacialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Procellaria aquinocutialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeter macrocephalus",
+        "group": "Sperm Whale"
+      },
+      {
+        "taxon": "Salpina thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Moreoeteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 43,
+      "M": 2,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Gobiono tothen gibbiferons",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Halobaena caerulea",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Mackerel Icefish"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Lobodon carcino phagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytopla nkton"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Apte nodytes forsteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Physete r macrocephalus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera acu torastra",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Procellaria aequinoctia lis",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Macronec tes gigant eus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytopla nkton"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 43,
+      "M": 3,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Procellaria aequinoctialis",
+        "group": "Large Phytoplaankton"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Moreoteuthis sp.",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Ecchinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thalasssoica antarctica",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Fregetta tropiica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salp"
+      },
+      {
+        "taxon": "Aptenodytes foersteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalopods"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Gobionotothen gibberifrons",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 43,
+      "M": 4,
+      "total_taxon_processed": 43
+    },
+    "content": [
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplaunkton"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Fulmarus glacialoides",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thysanoessa macrura",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Blue Whale"
+      },
+      {
+        "taxon": "Procellariidae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Thalassoica antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Diatoms",
+        "group": "Small phytoplaunkton"
+      },
+      {
+        "taxon": "Phycopter macrcephalus",
+        "group": "Small phytoplaunkton"
+      },
+      {
+        "taxon": "Arctocephalus gazella",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Moroeteuthis sp.",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Salpa thompsoni",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Gobionotothen gibberifrons",
+        "group": "Mackereel Icefish"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplaunkton"
+      },
+      {
+        "taxon": "Megaptera novaeangliae",
+        "group": "Humpback whale"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Macronecetes giganteus",
+        "group": "Cephalo pods"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 32,
+      "M": 3,
+      "total_taxon_processed": 36
+    },
+    "content": [
+      {
+        "taxon": "Gobionotothen gibbifrons",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Daption capense",
+        "group": "Ad\u00e9lie Penguin"
+      },
+      {
+        "taxon": "Polychaetes",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Macronectes giganteus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Krill"
+      },
+      {
+        "taxon": "nanoflagellates",
+        "group": "Small phytoplankton"
+      },
+      {
+        "taxon": "Lobodon carcinophagus",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Euphausia superba",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Weddell Seal"
+      },
+      {
+        "taxon": "Salpa thomsponi",
+        "group": "Salps"
+      },
+      {
+        "taxon": "Pygoscelis pappa",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Diatons",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Haloaena caerulea",
+        "group": "Small Phytoplankton"
+      },
+      {
+        "taxon": "Balaenoptera musculus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "MacKereel Icefish"
+      },
+      {
+        "taxon": "Fregetta tropica",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Eudyptes chrysolophus",
+        "group": "Chinstrap Penguin"
+      },
+      {
+        "taxon": "Euphausia crystallorophias",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Sperm Whale"
+      },
+      {
+        "taxon": "Balaenoptera physalus",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Fulmarus glacialis",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Aptenodytes forsteri",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Large Phytoplankton"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Balaenoptera acutorostrata",
+        "group": "Fin Whale"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Other Euphausiids"
+      },
+      {
+        "taxon": "Thalassarche melanophris",
+        "group": "Antarctic Fur Seal"
+      },
+      {
+        "taxon": "Pygoscelis antarcticus",
+        "group": "Macaroni Penguin"
+      }
+    ]
+  },
+  {
+    "filename": "Dahood_WestAntarctic_ollama_gemma3n_latest_results.json",
+    "metadata": {
+      "dataset": "Dahood_WestAntarctic",
+      "model": "ollama_gemma3n:latest",
+      "C": 43,
+      "M": 1,
+      "total_taxon_processed": 21
+    },
+    "content": [
+      {
+        "taxon": "Diaatoms",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Stercorarius maccormicki",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Pygoscelis adeliae",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Pagodroma nivea",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Balaenoptera bonaerensis",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Champsocephalus gunnari",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Thaalassarche melanophris",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Hydrurga leptonyx",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Orcinus orca",
+        "group": "Killer whale"
+      },
+      {
+        "taxon": "Physeteer macrocephalus",
+        "group": "Humpback whale"
+      },
+      {
+        "taxon": "Cryptophytes",
+        "group": "Small phytoplaankton"
+      },
+      {
+        "taxon": "Megaptera novaeaengliae",
+        "group": "Flying Birds"
+      },
+      {
+        "taxon": "Oceanites oceanicus",
+        "group": "Cephalo pods"
+      },
+      {
+        "taxon": "Mirounga leonina",
+        "group": "Elephant Seal"
+      },
+      {
+        "taxon": "Gobiono tothen gibberifrons",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Leptonychotes wedelii",
+        "group": "Leopard Seal"
+      },
+      {
+        "taxon": "Gastropods",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Pygoscelis papua",
+        "group": "Krill"
+      },
+      {
+        "taxon": "Notothenia rossii",
+        "group": "Mackearel Icefish"
+      },
+      {
+        "taxon": "Echinoderms",
+        "group": "Benthic Invertebrates"
+      },
+      {
+        "taxon": "Electrona antarctica",
+        "group": "Benthic Invertebrates"
+      }
+    ]
+  }
+]

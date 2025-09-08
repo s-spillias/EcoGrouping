@@ -1,0 +1,9 @@
+requests
+numpy
+pandas
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+google-generativeai
+anthropic

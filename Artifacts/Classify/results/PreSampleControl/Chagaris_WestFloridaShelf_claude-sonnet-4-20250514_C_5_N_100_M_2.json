@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Sphyrna mokarran",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Paralichthys lethostigma",
+    "group": "coastal piscivores"
+  },
+  {
+    "species": "Condylactis gigantea",
+    "group": "sessile epibenthos"
+  },
+  {
+    "species": "Scomber japonicus",
+    "group": "oceanic small pelagics"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Negaprion brevirostris",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Raja eglanteria",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Rypticus spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Microspathodon chrysurus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Menippe spp.",
+    "group": "large crabs"
+  },
+  {
+    "species": "Menticirrhus saxatilis",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Epinephelus flavolimbatus",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Hexanus griseus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Loligo pealeii",
+    "group": "squid"
+  },
+  {
+    "species": "Carcharhinus plumbeus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Xiphias gladius",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Calamus bajonado",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Diplectrum bivittatum",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Pristipomoides aquilonaris",
+    "group": "other snapper"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Halieutichthys aculeatus",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Centropristis philadelphica",
+    "group": "Black Seabass"
+  },
+  {
+    "species": "Epinephelus itajara",
+    "group": "Goliath Grouper"
+  },
+  {
+    "species": "Scorpaena calcarata",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Peprilus alepidotus",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Gymnothorax moringa",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Balistes capriscus",
+    "group": "Triggerfish"
+  },
+  {
+    "species": "Caranx hippos",
+    "group": "jacks"
+  },
+  {
+    "species": "Malacanthidae spp.",
+    "group": "tilefish"
+  },
+  {
+    "species": "Rhizoprionodon terraenovae",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Mycteroperca phenax",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Cynoglossidae spp.",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Epinephelus guttatus",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Lobotes surinamensis",
+    "group": "coastal piscivores"
+  },
+  {
+    "species": "Cynoscion nebulosus",
+    "group": "coastal piscivores"
+  },
+  {
+    "species": "Makaira spp.",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Lactophrys spp.",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Selene vomer",
+    "group": "jacks"
+  },
+  {
+    "species": "Seriola dumerili",
+    "group": "Greater Amberjack"
+  },
+  {
+    "species": "Trachinotus carolinus",
+    "group": "jacks"
+  },
+  {
+    "species": "Paralichthys albigutta",
+    "group": "coastal piscivores"
+  },
+  {
+    "species": "Pagrus pagrus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Calamus arctifrons",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Rhinoptera bonasus",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Carcharhinus leucas",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Odontaspis taurus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Prionotus scitulus",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Isurus oxyrinchus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Synagrops spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Callinectes sapidus",
+    "group": "large crabs"
+  },
+  {
+    "species": "Haemulon plumieri",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Chilomycterus schoepfi",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Opisthonema oglinum",
+    "group": "sardine-herring-scad complex"
+  },
+  {
+    "species": "Epinephelus niveatus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Synodus spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Chromis cyanea",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Lutjanus analis",
+    "group": "other snapper"
+  },
+  {
+    "species": "Sphyraena barracuda",
+    "group": "large coastal carnivores"
+  },
+  {
+    "species": "Eugerres plumieri",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Ariomma bondi",
+    "group": "oceanic small pelagics"
+  },
+  {
+    "species": "Dasyatis say",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Dasyatidae spp.",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Ogcocephalus nasutus",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Scarus croicensis",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Opistognathus aurifrons",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Oligoplites saurus",
+    "group": "jacks"
+  },
+  {
+    "species": "Tursiops truncatus",
+    "group": "Dolphins"
+  },
+  {
+    "species": "Eucinostomus spp.",
+    "group": "coastal omnivores"
+  },
+  {
+    "species": "Stephanolepis hispidus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Chromis enchrysurus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Rhomboplites aurorubens",
+    "group": "other snapper"
+  },
+  {
+    "species": "Haemulon aurolineatum",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Etrumeus teres",
+    "group": "sardine-herring-scad complex"
+  },
+  {
+    "species": "Menidia spp.",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Halichoeres bivittatus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Stomolophus eleagris",
+    "group": "carniv. jellyfish"
+  },
+  {
+    "species": "Epinephelus morio",
+    "group": "Red Grouper"
+  },
+  {
+    "species": "Mycteroperca interstitialis",
+    "group": "Yellowedge Grouper"
+  },
+  {
+    "species": "Rhinobatidae spp.",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Epinephelus cruentatus",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Ablennes hians",
+    "group": "coastal piscivores"
+  },
+  {
+    "species": "Ocyurus chrysurus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Mycteroperca venenosa",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Megalops atlanticus",
+    "group": "large coastal carnivores"
+  },
+  {
+    "species": "Limulus polyphemus",
+    "group": "large crabs"
+  },
+  {
+    "species": "Pomacentrus leucostictus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Centropristis striata",
+    "group": "Black Seabass"
+  },
+  {
+    "species": "Anchoa hepsetus",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Calamus leucosteus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Lutjanus campechanus",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Gymnothorax vicinus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Calamus penna",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Prionotus tribulus",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Hirundichthys affinis",
+    "group": "oceanic small pelagics"
+  },
+  {
+    "species": "Mellita quinquiesperfora",
+    "group": "echinoderms/ large gastropods"
+  },
+  {
+    "species": "Citharichthys macrops",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Anisotremus virginicus",
+    "group": "reef omnivores"
+  }
+]

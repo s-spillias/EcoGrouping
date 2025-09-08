@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Chaetodipterus faber",
+    "group": "Triggerfish"
+  },
+  {
+    "species": "Pomacentrus leucostictus",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Mycteroperca phenax",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Anchoa hepsetus",
+    "group": "sardine-herrering-scaad complex"
+  },
+  {
+    "species": "Lobotes surinamensis",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Lagodon rhomboides",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Chaeetodon ocellatus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Scorpaena calcata",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Chromis enchrysurus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Synodus foetens",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Strongylura marina",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Thunnus alalunga",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Harengula spp.",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Bathygobius soporator",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Seerranus notospilus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Synodus intermedius",
+    "group": "jacks"
+  },
+  {
+    "species": "Epinephelus niveatus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Harengula jaguana",
+    "group": "jacks"
+  },
+  {
+    "species": "MegaLops atlanticus",
+    "group": "shrimp"
+  },
+  {
+    "species": "Hexanus griseuus",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Cyclopsetta fimbriata",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Euthynnus alletteratus",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Scorpaena brasiliensis",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Cynoglossidae spp.",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Pomacentrus variabilis",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Centropomus undecimalis",
+    "group": "Jacks"
+  },
+  {
+    "species": "Epinephelus cruentatus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Synodus spp.",
+    "group": "jacks"
+  },
+  {
+    "species": "Caulolatilus spp.",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Menidia beryllina",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Cygnoscion nebuolosus",
+    "group": "jacks"
+  },
+  {
+    "species": "Lutjanus synagris",
+    "group": "other snapper"
+  },
+  {
+    "species": "Holacanthus bermudensis",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Parablennius marmoreus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Calamus penna",
+    "group": "shrimp"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "Jacks"
+  },
+  {
+    "species": "Opsanus beta",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Ocyurus chrysurus",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Lutjanus campechanus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Microspathodon chrysurus",
+    "group": "Grouper"
+  },
+  {
+    "species": "Halieutichthys aculeatus",
+    "group": "Jacks"
+  },
+  {
+    "species": "Prionotus tribulus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Gymnura micrura",
+    "group": "jacks"
+  },
+  {
+    "species": "Epinephelus morio",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Penaeus duorarum",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Prionotus stearnsi",
+    "group": "other snapper"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Synagrops spp.",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Sphoeroides nephelus",
+    "group": "carniv. jellyfish"
+  },
+  {
+    "species": "Gobiosoma robustum",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Gymnothorax vicinus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Galeocerdo cuvieri",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Palaemonetes intermedius",
+    "group": "squid"
+  },
+  {
+    "species": "Scomberomorus cavalla",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Eugerres plumieri",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Aluterus schoepfi",
+    "group": "shrimp"
+  },
+  {
+    "species": "Odontaspis taurus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Pomatomus saltatrix",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "other snapper"
+  },
+  {
+    "species": "Hippocampus zosterae",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Gobiosoma bosc",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Prionotus scitulus",
+    "group": "other snapper"
+  },
+  {
+    "species": "Panulirus argus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Carcharhinus obscurus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Haemulon plumieri",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Selene vomer",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Rachycentron canadium",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Thunnus atlanticus",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Diplodus holbrooki",
+    "group": "other snapper"
+  },
+  {
+    "species": "Epinephelus ascensionis",
+    "group": "other snapper"
+  },
+  {
+    "species": "Prionotus rubio",
+    "group": "other snapper"
+  },
+  {
+    "species": "Dasyatis sabinna",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Pristipomoides aquilonaris",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Katswonuus pelamis",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Stomatopods",
+    "group": "squid"
+  },
+  {
+    "species": "Sphoeroides spengleri",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Eucinostomus gula",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Anchoa mitchilli",
+    "group": "sardine-herrering-scaad complex"
+  },
+  {
+    "species": "Epinephelus drummondhayi",
+    "group": "other snapper"
+  },
+  {
+    "species": "Eucinostomus harengulus",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Orthopristis chrysoptera",
+    "group": "Triggerfish"
+  },
+  {
+    "species": "Strongylura timucu",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Ancylopsetta quadrocellata",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Microgobius gulosus",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Scarus croicensis",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Carcharhinus limbatus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Stomolophus eleagris",
+    "group": "carniv. jellyfish"
+  },
+  {
+    "species": "Anisotrimus virgimnicuus",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Ablennes hians",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Brevoortia smithi",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Jenkinsia lamprotaenia",
+    "group": "shrimp"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "Small coastal sharks"
+  },
+  {
+    "species": "Thunnus thynnus",
+    "group": "Tunnies"
+  },
+  {
+    "species": "Xiphias gladius",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Peprilus burti",
+    "group": "Reef carnivores"
+  },
+  {
+    "species": "Carcharhinus falciformiis",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Bagre marinus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Paralichthys albigutta",
+    "group": "Rays/skates"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Mugil cephalus",
+    "group": "mullets"
+  },
+  {
+    "species": "Holothurians",
+    "group": "echinoderms/ large gastropods"
+  },
+  {
+    "species": "Trachinotus falcatus",
+    "group": "Jack"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "sardine-herring-scad complex"
+  },
+  {
+    "species": "Istiophorus platypterus",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Epinephelus guttatus",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Caranx hippos",
+    "group": "Jacks"
+  },
+  {
+    "species": "Trinectes maculatus",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Epinephelus morio",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Epinephelus drummondhayi",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Prionotus scitulus",
+    "group": "jacks"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Rhinoptera bonasus",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Halieutichthys aculeatus",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Micropogonias undulatus",
+    "group": "mullets"
+  },
+  {
+    "species": "Monacanthus ciliatus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Tetrapturus spp.",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Rhomboplites aurorubens",
+    "group": "Spanish Mackerel"
+  },
+  {
+    "species": "Anisotremus virginicus",
+    "group": "mullets"
+  },
+  {
+    "species": "Malacanthus plumieri",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Loligo pealeii",
+    "group": "squid"
+  },
+  {
+    "species": "Saurida brasiliensis",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Eucinostomus gula",
+    "group": "mullets"
+  },
+  {
+    "species": "Dasyatidae spp.",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Epinephelus adscensionis",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Trachurus lathami",
+    "group": "King Mackerel"
+  },
+  {
+    "species": "Citharichthys macrops",
+    "group": "large crabs"
+  },
+  {
+    "species": "Hemiramphus brasiliensis",
+    "group": "anchovies and silversides"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Aluterus scriptus",
+    "group": "Reef omnivores"
+  },
+  {
+    "species": "Palaemonetes intermedius",
+    "group": "shrimp"
+  },
+  {
+    "species": "Octopus sp.",
+    "group": "octopods"
+  },
+  {
+    "species": "Holocentrus ascensionis",
+    "group": "Reef omnivores"
+  },
+  {
+    "species": "Jenkinsia lamprotaenia",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Scomberomorus maculatus",
+    "group": "King Mackerel"
+  },
+  {
+    "species": "Centropristis philadelphica",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Harengula spp.",
+    "group": "sardine-herring-scad complex"
+  },
+  {
+    "species": "Pomacentrus leucostictus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Peprilus alepidotus",
+    "group": "sardine-herring-scad complex"
+  },
+  {
+    "species": "Carcharhinus obscurus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Dasyatis say",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Calamus proridens",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Centropristis striata",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Holacanthus bermudensis",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Raja eglanteria",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Epinephelus niveatus",
+    "group": "other shallow water grouper"
+  },
+  {
+    "species": "Diplectrum formosum",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Lutjanus analis",
+    "group": "Gag Grouper"
+  },
+  {
+    "species": "Sphyrna mokarran",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Etelis oculatus",
+    "group": "other deep water grouper"
+  },
+  {
+    "species": "Gobiosoma spp.",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Gobiosoma bosc",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "mullets"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Prionotus tribulus",
+    "group": "jacks"
+  },
+  {
+    "species": "Eucinostomus harengulus",
+    "group": "mullets"
+  },
+  {
+    "species": "Eucinostomus spp.",
+    "group": "mullets"
+  },
+  {
+    "species": "Selar crumenophthalmus",
+    "group": "Spanish Mackerel"
+  },
+  {
+    "species": "Haemulon aurolineatum",
+    "group": "other snapper"
+  },
+  {
+    "species": "Pomacanthus arcuatus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Scarus croicensis",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Callinectes sapidus",
+    "group": "large crabs"
+  },
+  {
+    "species": "Gobiosoma robustum",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Odontaspis taurus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Strongylura timucu",
+    "group": "jacks"
+  },
+  {
+    "species": "Diplodus holbrooki",
+    "group": "Large coastal carnivores"
+  },
+  {
+    "species": "Synodus foetens",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Opsanus tau",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Archosargus probatocephalus",
+    "group": "Black Seabass"
+  },
+  {
+    "species": "Dasyatis centroura",
+    "group": "Rays/skates"
+  },
+  {
+    "species": "Bagre marinus",
+    "group": "large crabs"
+  },
+  {
+    "species": "Cynoscion nebulosus",
+    "group": "Black Seabass"
+  },
+  {
+    "species": "Halichoeres bivittatus",
+    "group": "reef omnivores"
+  },
+  {
+    "species": "Selene vomer",
+    "group": "Jack"
+  },
+  {
+    "species": "Diplectrum bivittatum",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Ocyurus chrysurus",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Stephanolepis hispidus",
+    "group": "Red Snapper"
+  },
+  {
+    "species": "Hemiramphus balao",
+    "group": "jacks"
+  },
+  {
+    "species": "Cyclopsetta fimbriata",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Synodus spp.",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Rachycentron canadum",
+    "group": "Greater Amberjack"
+  },
+  {
+    "species": "Sicyonia brevirostris",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Strongylura notata",
+    "group": "jacks"
+  },
+  {
+    "species": "Lagodon rhomboides",
+    "group": "mullets"
+  },
+  {
+    "species": "Antennarius multiocellatus",
+    "group": "reef carnivores"
+  },
+  {
+    "species": "Serranus notospilus",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Megalops atlanticus",
+    "group": "jacks"
+  },
+  {
+    "species": "Peprilus burti",
+    "group": "sardine-herring-scad complex"
+  },
+  {
+    "species": "Microgobius gulosus",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Alopias vulpinus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Etropus rimosus",
+    "group": "jacks"
+  },
+  {
+    "species": "Sphyraena barracuda",
+    "group": "Large coastal carnivores"
+  },
+  {
+    "species": "Thunnus atlanticus",
+    "group": "Billfish & Tuna"
+  },
+  {
+    "species": "Scorpaena calcarata",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Chasmodes saburrae",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Elops saurus",
+    "group": "jacks"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "Large coastal sharks"
+  },
+  {
+    "species": "Cynoglossidae spp.",
+    "group": "small coastal carnivores"
+  },
+  {
+    "species": "Acanthostracion quadricornis",
+    "group": "reef omnivores"
+  }
+]

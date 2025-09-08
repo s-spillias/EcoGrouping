@@ -1,0 +1,442 @@
+[
+  {
+    "id": "species_0",
+    "species": "Phycis phycis"
+  },
+  {
+    "id": "species_1",
+    "species": "Muraena helena"
+  },
+  {
+    "id": "species_2",
+    "species": "Trachurus picturatus"
+  },
+  {
+    "id": "species_3",
+    "species": "Loligo spp."
+  },
+  {
+    "id": "species_4",
+    "species": "Trachurus trachurus"
+  },
+  {
+    "id": "species_5",
+    "species": "Physeter macrocephalus"
+  },
+  {
+    "id": "species_6",
+    "species": "Diplodus sargus"
+  },
+  {
+    "id": "species_7",
+    "species": "Antimora rostrata"
+  },
+  {
+    "id": "species_8",
+    "species": "Caretta caretta"
+  },
+  {
+    "id": "species_9",
+    "species": "Promethichthys prometeus"
+  },
+  {
+    "speciees": "Promethichthys prometeus",
+    "group": "Other crustaceans"
+  },
+  {
+    "id": "species_10",
+    "species": "Plesionika edwarsii"
+  },
+  {
+    "id": "species_11",
+    "species": "Polymixia nobilis"
+  },
+  {
+    "id": "species_12",
+    "species": "Amphinomidae"
+  },
+  {
+    "id": "species_13",
+    "species": "Scorpaena spp."
+  },
+  {
+    "id": "species_14",
+    "species": "Gymnothorax polygonus"
+  },
+  {
+    "id": "species_15",
+    "species": "Physalia physalis"
+  },
+  {
+    "id": "species_16",
+    "species": "Pagellus acarne"
+  },
+  {
+    "id": "species_17",
+    "species": "Aphanopus carbo"
+  },
+  {
+    "id": "species_18",
+    "species": "Cerithidae"
+  },
+  {
+    "id": "species_19",
+    "species": "Chromis limbata"
+  },
+  {
+    "speciees": "Chromis limbata",
+    "group": "Demersal sparids"
+  },
+  {
+    "id": "species_20",
+    "species": "Onuphidae"
+  },
+  {
+    "id": "species_21",
+    "species": "Diplodus puntazzo"
+  },
+  {
+    "id": "species_22",
+    "species": "Palinurus elephas"
+  },
+  {
+    "id": "species_23",
+    "species": "Polyprion americanus"
+  },
+  {
+    "id": "species_24",
+    "species": "Conger conger"
+  },
+  {
+    "id": "species_25",
+    "species": "Detritus"
+  },
+  {
+    "id": "species_26",
+    "species": "Maja spp."
+  },
+  {
+    "id": "species_27",
+    "species": "Pagrus auriga"
+  },
+  {
+    "id": "species_28",
+    "species": "Solea solea"
+  },
+  {
+    "id": "species_29",
+    "species": "Sardina pilchardus"
+  },
+  {
+    "speciees": "Sardina pilchardus",
+    "group": "Shrimps"
+  },
+  {
+    "id": "species_30",
+    "species": "Thunnus albacores"
+  },
+  {
+    "id": "species_31",
+    "species": "Asteriidae"
+  },
+  {
+    "id": "species_32",
+    "species": "Coryphaena spp."
+  },
+  {
+    "id": "species_33",
+    "species": "Xiphias gladius"
+  },
+  {
+    "id": "species_34",
+    "species": "Mora moro"
+  },
+  {
+    "id": "species_35",
+    "species": "Pachygrapsus marmoratus"
+  },
+  {
+    "id": "species_36",
+    "species": "Pontinus kuhlii"
+  },
+  {
+    "id": "species_37",
+    "species": "Katsuwonus pelamis"
+  },
+  {
+    "id": "species_38",
+    "species": "Paracentrothus lividus"
+  },
+  {
+    "id": "species_39",
+    "species": "Merluccius merluccius"
+  },
+  {
+    "speciees": "Merluccius merluccius",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "id": "species_40",
+    "species": "Tursiops truncatus"
+  },
+  {
+    "id": "species_41",
+    "species": "Prionace glauca"
+  },
+  {
+    "id": "species_42",
+    "species": "Sphyrna lewini"
+  },
+  {
+    "id": "species_43",
+    "species": "Columbellidae"
+  },
+  {
+    "id": "species_44",
+    "species": "Apogon imberbis"
+  },
+  {
+    "id": "species_45",
+    "species": "Sepia officinalis"
+  },
+  {
+    "id": "species_46",
+    "species": "Ophidiasteridae"
+  },
+  {
+    "id": "species_47",
+    "species": "Epigonus telescopus"
+  },
+  {
+    "id": "species_48",
+    "species": "Epinephelus marginatus"
+  },
+  {
+    "id": "species_49",
+    "species": "Diadema africanum"
+  },
+  {
+    "speciees": "Diademus africanum",
+    "group": "Urchins"
+  },
+  {
+    "id": "species_50",
+    "species": "Stephanolepis hispidus"
+  },
+  {
+    "id": "species_51",
+    "species": "Siphonoridae"
+  },
+  {
+    "id": "species_52",
+    "species": "Squatina squatina"
+  },
+  {
+    "id": "species_53",
+    "species": "Seriola spp."
+  },
+  {
+    "id": "species_54",
+    "species": "Mustelus mustelus"
+  },
+  {
+    "id": "species_55",
+    "species": "Makaira nigricans"
+  },
+  {
+    "id": "species_56",
+    "species": "Holothuriidae"
+  },
+  {
+    "id": "species_57",
+    "species": "Parapristipoma octolineatum"
+  },
+  {
+    "id": "species_58",
+    "species": "Littorinidae"
+  },
+  {
+    "id": "species_59",
+    "species": "DSL"
+  },
+  {
+    "speciees": "DSL",
+    "group": "Demeersal serranids and wreckfishes"
+  },
+  {
+    "id": "species_60",
+    "species": "Seagrass/Seaweed"
+  },
+  {
+    "id": "species_61",
+    "species": "Mullus surmuletus"
+  },
+  {
+    "id": "species_62",
+    "species": "Thunnus obesus"
+  },
+  {
+    "id": "species_63",
+    "species": "Sardinella aurita"
+  },
+  {
+    "id": "species_64",
+    "species": "Cancer spp."
+  },
+  {
+    "id": "species_65",
+    "species": "Argyrosomus regius"
+  },
+  {
+    "id": "species_66",
+    "species": "Gymnothorax unicolor"
+  },
+  {
+    "id": "species_67",
+    "species": "Palaemonidae"
+  },
+  {
+    "id": "species_68",
+    "species": "Chaceon affini"
+  },
+  {
+    "id": "species_69",
+    "species": "Pelagia noctiluca"
+  },
+  {
+    "speciees": "Pelagia noctiluca",
+    "group": "Jellyfishes"
+  },
+  {
+    "id": "species_70",
+    "species": "Aplysiidae"
+  },
+  {
+    "id": "species_71",
+    "species": "Actiniidae"
+  },
+  {
+    "id": "species_72",
+    "species": "Atherina presbyter"
+  },
+  {
+    "id": "species_73",
+    "species": "Ophiodermatidae"
+  },
+  {
+    "id": "species_74",
+    "species": "Thunnus thynnus"
+  },
+  {
+    "id": "species_75",
+    "species": "Pagrus pagrus"
+  },
+  {
+    "id": "species_76",
+    "species": "Pomadasys incisus"
+  },
+  {
+    "id": "species_77",
+    "species": "Boops boops"
+  },
+  {
+    "id": "species_78",
+    "species": "Sphyrna zygaena"
+  },
+  {
+    "id": "species_79",
+    "species": "Grapsidae"
+  },
+  {
+    "speciees": "Grapsidae",
+    "group": "Other crustaceans"
+  },
+  {
+    "id": "species_80",
+    "species": "Eriphia verrucosa"
+  },
+  {
+    "id": "species_81",
+    "species": "Zooplankton"
+  },
+  {
+    "id": "species_82",
+    "species": "Isurus oxyrinchus"
+  },
+  {
+    "id": "species_83",
+    "species": "Scomber colias"
+  },
+  {
+    "id": "species_84",
+    "species": "Enchelycore anatina"
+  },
+  {
+    "id": "species_85",
+    "species": "Spondyliosoma cantharus"
+  },
+  {
+    "id": "species_86",
+    "species": "Dentex dentex"
+  },
+  {
+    "id": "species_87",
+    "species": "Pagellus bogaraveo"
+  },
+  {
+    "id": "species_88",
+    "species": "Thalasoma pavo"
+  },
+  {
+    "id": "species_89",
+    "species": "Beryx decadactylus"
+  },
+  {
+    "speciees": "Beryx decadactylus",
+    "group": "Demersal serranids and wrecksfishes"
+  },
+  {
+    "id": "species_90",
+    "species": "Plagusia depressa"
+  },
+  {
+    "id": "species_91",
+    "species": "Illex condeitii"
+  },
+  {
+    "id": "species_92",
+    "species": "Sparisoma cretense"
+  },
+  {
+    "id": "species_93",
+    "species": "Calonectris diomedea"
+  },
+  {
+    "id": "species_94",
+    "species": "Thunnus alalunga"
+  },
+  {
+    "id": "species_95",
+    "species": "Balistes capriscus"
+  },
+  {
+    "id": "species_96",
+    "species": "Sarpa salpa"
+  },
+  {
+    "id": "species_97",
+    "species": "Patellidae"
+  },
+  {
+    "id": "species_98",
+    "species": "Stenoteuthis pteropus"
+  },
+  {
+    "id": "species_99",
+    "species": "Phytoplankton"
+  },
+  {
+    "speciees": "Phytoplankton",
+    "group": "Phytoplankton"
+  }
+]

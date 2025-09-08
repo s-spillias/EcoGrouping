@@ -1,0 +1,1866 @@
+[
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 1,
+      "M": 1,
+      "total_species_processed": 3
+    },
+    "content": [
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 1,
+      "M": 2,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Herrings"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 1,
+      "M": 3,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Herrings"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 1,
+      "M": 4,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 2,
+      "M": 0,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Sardines"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Sardines"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 2,
+      "M": 1,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Herrings"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Salema"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 2,
+      "M": 2,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Sardines"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 2,
+      "M": 3,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 2,
+      "M": 4,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Herrings"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Sardines"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 4,
+      "M": 0,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Herrings"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 4,
+      "M": 1,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Decapods"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 4,
+      "M": 2,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Salema"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 4,
+      "M": 3,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Herrings"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Mullet"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 4,
+      "M": 4,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Herrings"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 8,
+      "M": 0,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Herrings"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Decapods"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 8,
+      "M": 1,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Salema"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 8,
+      "M": 2,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 8,
+      "M": 3,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 8,
+      "M": 4,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Herrings"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 16,
+      "M": 0,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 16,
+      "M": 1,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Decapods"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 16,
+      "M": 2,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Salema"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 16,
+      "M": 3,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Decapods"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  },
+  {
+    "filename": "Mcmullen_Penguins_ollama_deepseek-r1_14b_results.json",
+    "metadata": {
+      "dataset": "Mcmullen_Penguins",
+      "model": "ollama_deepseek-r1:14b",
+      "C": 16,
+      "M": 4,
+      "total_species_processed": 17
+    },
+    "content": [
+      {
+        "species": "Spheniscus mendiculus",
+        "group": "Gal\u00e1pagos Penguin"
+      },
+      {
+        "species": "Sphyraena idiates",
+        "group": "Barracudas"
+      },
+      {
+        "species": "Mugil galapagensis",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil cephalus",
+        "group": "Mullet"
+      },
+      {
+        "species": "Mugil curema",
+        "group": "Mullet"
+      },
+      {
+        "species": "Engraulidae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Anchoa naso",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Sardinops sagax sagax",
+        "group": "Sardines"
+      },
+      {
+        "species": "Clupeidae",
+        "group": "Herrings"
+      },
+      {
+        "species": "Opisthonema berlangai",
+        "group": "Salema"
+      },
+      {
+        "species": "Xenichthys agassizi",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Xenocys jessiae",
+        "group": "Anchovy"
+      },
+      {
+        "species": "Panulirus gracilis",
+        "group": "Decapods"
+      },
+      {
+        "species": "Panulirus penicillatus",
+        "group": "Decapods"
+      },
+      {
+        "species": "Scyllaridea astori",
+        "group": "Decapods"
+      },
+      {
+        "species": "Functional group spp. (predatory)",
+        "group": "Predatory Zooplankton"
+      },
+      {
+        "species": "Functional group spp. (herbivorous)",
+        "group": "Herbivorous Zooplankton"
+      }
+    ]
+  }
+]

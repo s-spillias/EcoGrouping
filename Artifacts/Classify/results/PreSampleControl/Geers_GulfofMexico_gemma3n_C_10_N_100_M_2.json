@@ -1,0 +1,442 @@
+[
+  {
+    "species": "Larus delawarensis",
+    "group": "missing"
+  },
+  {
+    "species": "Echinodermata",
+    "group": "missing"
+  },
+  {
+    "species": "Stomatopoda",
+    "group": "missing"
+  },
+  {
+    "species": "Chaetodipterus faber",
+    "group": "missing"
+  },
+  {
+    "species": "Thalasseus sandvicensis",
+    "group": "missing"
+  },
+  {
+    "species": "Diapterus spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "missing"
+  },
+  {
+    "species": "Isopoda",
+    "group": "missing"
+  },
+  {
+    "species": "Lolliguncula brevis",
+    "group": "missing"
+  },
+  {
+    "species": "Trichiurus lepturus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trichiurus lepturus",
+    "group": "Other Demersal Fishes"
+  },
+  {
+    "species": "Callinectes sapidus",
+    "group": "missing"
+  },
+  {
+    "species": "Gavia immer",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna zygaena",
+    "group": "missing"
+  },
+  {
+    "species": "Caranx hippos",
+    "group": "missing"
+  },
+  {
+    "species": "Micropogonias undulatus",
+    "group": "missing"
+  },
+  {
+    "species": "Stenella frontalis",
+    "group": "missing"
+  },
+  {
+    "species": "Lepisosteus osseus",
+    "group": "missing"
+  },
+  {
+    "species": "Peprilus burti",
+    "group": "missing"
+  },
+  {
+    "species": "Loligo plei",
+    "group": "missing"
+  },
+  {
+    "species": "Opisthonema oglinum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Opisthonema oglinum",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Dasyatis americana",
+    "group": "missing"
+  },
+  {
+    "species": "Haemulon spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Sternula antillarum",
+    "group": "missing"
+  },
+  {
+    "species": "Trachinotus carolinus",
+    "group": "missing"
+  },
+  {
+    "species": "Opsanus beta",
+    "group": "missing"
+  },
+  {
+    "species": "Ginglymostoma cirratum",
+    "group": "missing"
+  },
+  {
+    "species": "Cyprinodontidae",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "missing"
+  },
+  {
+    "species": "Rynchops niger",
+    "group": "missing"
+  },
+  {
+    "speciees": "Rynchops niger",
+    "group": "Ladyfish"
+  },
+  {
+    "species": "Pogonias cromis",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus synagris",
+    "group": "missing"
+  },
+  {
+    "species": "Elops saurus",
+    "group": "missing"
+  },
+  {
+    "species": "Pomatomus saltatrix",
+    "group": "missing"
+  },
+  {
+    "species": "Dasyatis sabina",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus plumbeus",
+    "group": "missing"
+  },
+  {
+    "species": "Bairdiella chrysoura",
+    "group": "missing"
+  },
+  {
+    "species": "Cynoscion arenarius",
+    "group": "missing"
+  },
+  {
+    "species": "Scomberomorus maculatus",
+    "group": "missing"
+  },
+  {
+    "species": "Lagodon rhomboides",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lagodon rhomboides",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Lutjanus griseus",
+    "group": "missing"
+  },
+  {
+    "species": "Dasyatis centroura",
+    "group": "missing"
+  },
+  {
+    "species": "Doryteuthis pealeii",
+    "group": "missing"
+  },
+  {
+    "species": "Brevoortia patronus",
+    "group": "missing"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "missing"
+  },
+  {
+    "species": "Caranx crysos",
+    "group": "missing"
+  },
+  {
+    "species": "Menidia spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Mugil curema",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "missing"
+  },
+  {
+    "species": "Scomberomorus cavalla",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scomberomorus cavalla",
+    "group": "Mackerel"
+  },
+  {
+    "species": "Pelecanus erythrorhynchos",
+    "group": "missing"
+  },
+  {
+    "species": "Rhinoptera bonasus",
+    "group": "missing"
+  },
+  {
+    "species": "Raja eglanteria",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna mokarran",
+    "group": "missing"
+  },
+  {
+    "species": "Decapoda",
+    "group": "missing"
+  },
+  {
+    "species": "Rachycentron canadum",
+    "group": "missing"
+  },
+  {
+    "species": "Morus bassanus",
+    "group": "missing"
+  },
+  {
+    "species": "Poeciliidae",
+    "group": "missing"
+  },
+  {
+    "species": "Etrumeus teres",
+    "group": "missing"
+  },
+  {
+    "species": "Panulirus argus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Panulirus argus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Menippe mercenaria",
+    "group": "missing"
+  },
+  {
+    "species": "Chloroscombrus chrysurus",
+    "group": "missing"
+  },
+  {
+    "species": "Bivalvia",
+    "group": "missing"
+  },
+  {
+    "species": "Pelecanus occidentalis",
+    "group": "missing"
+  },
+  {
+    "species": "Sciaenops ocellatus",
+    "group": "missing"
+  },
+  {
+    "species": "Euthynnus alletteratus",
+    "group": "missing"
+  },
+  {
+    "species": "Leucophaeus atricilla",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus campechanus",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus limbatus",
+    "group": "missing"
+  },
+  {
+    "species": "Atractosteus spatula",
+    "group": "missing"
+  },
+  {
+    "speciees": "Atractossteus spatula",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Gelochelidon nilotica",
+    "group": "missing"
+  },
+  {
+    "species": "Actiniaria",
+    "group": "missing"
+  },
+  {
+    "species": "Crassostrea virginica",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "missing"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "missing"
+  },
+  {
+    "species": "Rhizoprionodon terraenovae",
+    "group": "missing"
+  },
+  {
+    "species": "Annelida",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus brevipinna",
+    "group": "missing"
+  },
+  {
+    "species": "Cynoscion nebulosus",
+    "group": "missing"
+  },
+  {
+    "species": "Caridea",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caridea",
+    "group": "Penaeid Shrimp"
+  },
+  {
+    "species": "Trachurus lathami",
+    "group": "missing"
+  },
+  {
+    "species": "Negaprion brevirostris",
+    "group": "missing"
+  },
+  {
+    "species": "Tunicata",
+    "group": "missing"
+  },
+  {
+    "species": "Galeocerdo cuvier",
+    "group": "missing"
+  },
+  {
+    "species": "Hydroprogne caspia",
+    "group": "missing"
+  },
+  {
+    "species": "Dorosoma cepedianum",
+    "group": "missing"
+  },
+  {
+    "species": "Larus marinus",
+    "group": "missing"
+  },
+  {
+    "species": "Phalacrocorax auritus",
+    "group": "missing"
+  },
+  {
+    "species": "Sterna hirundo",
+    "group": "missing"
+  },
+  {
+    "species": "Pandion haliaetus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pandion halietus",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Carcharhinus falciformis",
+    "group": "missing"
+  },
+  {
+    "species": "Dorosoma petenense",
+    "group": "missing"
+  },
+  {
+    "species": "Trinectes maculatus",
+    "group": "missing"
+  },
+  {
+    "species": "Gastropoda",
+    "group": "missing"
+  },
+  {
+    "species": "Bagre marinus",
+    "group": "missing"
+  },
+  {
+    "species": "Haliaeetus leucocephalus",
+    "group": "missing"
+  },
+  {
+    "species": "Fregata magnificens",
+    "group": "missing"
+  },
+  {
+    "species": "Thalasseus maximus",
+    "group": "missing"
+  },
+  {
+    "species": "Sterna forsteri",
+    "group": "missing"
+  },
+  {
+    "species": "Harengula jaguana",
+    "group": "missing"
+  },
+  {
+    "speciees": "Harenula jaguana",
+    "group": "Shads"
+  }
+]

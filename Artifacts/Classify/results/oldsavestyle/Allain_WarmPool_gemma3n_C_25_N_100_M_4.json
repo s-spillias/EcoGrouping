@@ -1,0 +1,402 @@
+[
+  {
+    "species": "Gempylidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Stoatopoda",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Hyaloteuthis pelagica",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Malacanthiidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Myctophidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Amphipoda",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "ciliates",
+    "group": "Micrzooplankton"
+  },
+  {
+    "species": "Tetrapterus angustirostris",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Lampris guttatus",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Xiphis gladius",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Priocane glauca",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Noemidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Megalopa",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Phronima",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Scombrolabracidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Scyllaridae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Moroteuthis",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Histioteuthiidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Stenoteuthis",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Harpiosquillidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Chiasmodontidae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Makaira indica",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Bolitaenidae",
+    "group": "Bathypelagic forage"
+  },
+  {
+    "species": "Pterygioeuthis",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Moroteuthis lonnbergi",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Hyperiidae",
+    "group": "Epipelagic molluscs"
+  },
+  {
+    "species": "Ancistrocheiirus",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Ophiididae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Scorpaenidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Argonautidae",
+    "group": "Epipelagic molluscs"
+  },
+  {
+    "species": "Carcharhiniidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "rotifers",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "sarcodinids",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Oplophorus",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Tetrapturus audax",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Ommastrephidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Tetraodontiidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Sepiolidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Alopiidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Enoploteuthiidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "autotrophic dinoflagellates",
+    "group": "Large phytoplaankton"
+  },
+  {
+    "species": "Amphitretidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "diaatoms",
+    "group": "Small phytoplaankton"
+  },
+  {
+    "species": "pelagophytes",
+    "group": "Large phytoplaankton"
+  },
+  {
+    "species": "Triacanthiidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Coryphaeidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Scopelarchidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "copepod nauplii",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "Bigeye tuna"
+  },
+  {
+    "species": "Carinariidae",
+    "group": "Detritus"
+  },
+  {
+    "species": "bacterioplankton",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Sphyrnidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Alepisauridae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Maurolicus",
+    "group": "Bigeye tuna"
+  },
+  {
+    "species": "prymnesiophytes",
+    "group": "Large phytopla\u0c02kton"
+  },
+  {
+    "species": "Diretmidae",
+    "group": "Detritus"
+  },
+  {
+    "species": "Omosudidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Octopoteuthidae",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "Zanclidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Makaira mazara",
+    "group": "Swordfish"
+  },
+  {
+    "species": "Molidae",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "Holocentridae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Macrurocyttidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Penaeoidea",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Katswonuus pelamis",
+    "group": "Yellowfin tuna"
+  },
+  {
+    "species": "Ostracoberycidae",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "copepods",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "Euphausiidae",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Eucleoteuthis luminosa",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "autotrophic eukaryotes",
+    "group": "Large phytopla\u0c02kton"
+  },
+  {
+    "species": "Decapoda",
+    "group": "Epipelagic crustaceans"
+  },
+  {
+    "species": "Pomacanthidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Seerranidae",
+    "group": "Other fish"
+  },
+  {
+    "species": "Lamnidae",
+    "group": "Other fish"
+  },
+  {
+    "species": "Sergestidae",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "Istiophorus platypterus",
+    "group": "Large phytoplankton"
+  },
+  {
+    "species": "Caridae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Balistidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Kyphosidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Bramidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Euphausiids",
+    "group": "Mesozooplankton"
+  },
+  {
+    "species": "heterotrophic pico- and nanozoopla\u0c02kton",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Ostraciidae",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "Argyr copelus",
+    "group": "Mesozoopla\u0c02kton"
+  },
+  {
+    "species": "Acanthuridae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Monacanthiidae",
+    "group": "Other sharks"
+  },
+  {
+    "species": "Diodontiidae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Phosichthyidae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "small cladocerans",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Chaeotodontidae",
+    "group": "MicrOrganization"
+  },
+  {
+    "species": "Scombridae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Synechococcus",
+    "group": "Small phytopla\u0c02kton"
+  },
+  {
+    "species": "Sternoptyx",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Clupidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Percophiidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Onychoteuthidae",
+    "group": "Other billfish"
+  },
+  {
+    "species": "Caristiidae",
+    "group": "Piscivorous fish"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "Bigeye tuna"
+  },
+  {
+    "species": "Enoplometopidae",
+    "group": "Mesozoopla\u0c02kton"
+  }
+]

@@ -1,0 +1,38 @@
+                                     Mixed Linear Model Regression Results
+================================================================================================================
+Model:                                MixedLM                   Dependent Variable:                   F1_logit  
+No. Observations:                     2070                      Method:                               REML      
+No. Groups:                           5                         Scale:                                8.0521    
+Min. group size:                      414                       Log-Likelihood:                       -5136.5174
+Max. group size:                      414                       Converged:                            No        
+Mean group size:                      414.0                                                                     
+----------------------------------------------------------------------------------------------------------------
+                                                                     Coef.  Std.Err.    z    P>|z| [0.025 0.975]
+----------------------------------------------------------------------------------------------------------------
+Intercept                                                             2.354    1.208   1.948 0.051 -0.015  4.722
+C(model)[T.gemini-2.5-flash]                                          0.148    0.308   0.480 0.631 -0.456  0.752
+C(model)[T.ollama_deepseek-r1:14b]                                   -5.397    0.308 -17.507 0.000 -6.002 -4.793
+C(model)[T.ollama_deepseek-r1:70b]                                   -4.132    0.324 -12.759 0.000 -4.766 -3.497
+C(model)[T.ollama_gemma3n:latest]                                    -5.711    0.308 -18.525 0.000 -6.316 -5.107
+C(model)[T.ollama_gpt-oss:120b]                                      -3.230    0.308 -10.476 0.000 -3.834 -2.626
+C(model)[T.ollama_gpt-oss:latest]                                    -4.936    0.308 -16.011 0.000 -5.541 -4.332
+C(model)[T.ollama_qwen3:235b-a22b-instruct-2507-q4_K_M]              -2.675    0.308  -8.676 0.000 -3.279 -2.071
+C(model)[T.ollama_qwen3:30b-a3b-instruct-2507-q4_K_M]                -3.781    0.308 -12.264 0.000 -4.385 -3.177
+C(dataset)[T.Chagaris_WestFloridaShelf]                               0.062    0.527   0.117 0.907 -0.972  1.095
+C(dataset)[T.Dahood_WestAntarctic]                                    3.777    0.529   7.138 0.000  2.740  4.814
+C(dataset)[T.Geers_GulfofMexico]                                      1.265    0.526   2.407 0.016  0.235  2.295
+C(dataset)[T.Mcmullen_Penguins]                                       4.109    0.534   7.701 0.000  3.064  5.155
+C(dataset)[T.Montero_CanaryIslands]                                   1.346    0.524   2.572 0.010  0.320  2.372
+BatchSize_sc                                                         -0.509    0.183  -2.781 0.005 -0.868 -0.150
+BatchSize_sc:C(model)[T.gemini-2.5-flash]                             0.046    0.257   0.180 0.857 -0.458  0.551
+BatchSize_sc:C(model)[T.ollama_deepseek-r1:14b]                      -2.634    0.257 -10.236 0.000 -3.138 -2.129
+BatchSize_sc:C(model)[T.ollama_deepseek-r1:70b]                      -3.547    0.316 -11.237 0.000 -4.165 -2.928
+BatchSize_sc:C(model)[T.ollama_gemma3n:latest]                       -0.402    0.257  -1.564 0.118 -0.907  0.102
+BatchSize_sc:C(model)[T.ollama_gpt-oss:120b]                         -0.813    0.257  -3.159 0.002 -1.317 -0.308
+BatchSize_sc:C(model)[T.ollama_gpt-oss:latest]                       -2.292    0.257  -8.909 0.000 -2.797 -1.788
+BatchSize_sc:C(model)[T.ollama_qwen3:235b-a22b-instruct-2507-q4_K_M] -0.971    0.257  -3.772 0.000 -1.475 -0.466
+BatchSize_sc:C(model)[T.ollama_qwen3:30b-a3b-instruct-2507-q4_K_M]   -0.613    0.257  -2.382 0.017 -1.117 -0.109
+Group Var                                                             6.390                                     
+dataset_re Var                                                        0.579                                     
+model_re Var                                                          0.066                                     
+================================================================================================================

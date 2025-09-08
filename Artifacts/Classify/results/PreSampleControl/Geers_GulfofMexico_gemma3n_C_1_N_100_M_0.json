@@ -1,0 +1,802 @@
+[
+  {
+    "species": "Brevoortia patronus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Brevoortia patronus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Panulirus argus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Panulirus arguus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Euthynnus alletteratus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Euthynnus alletteratus",
+    "group": "Atlantic Croaker"
+  },
+  {
+    "species": "Orthopristis chrysoptera",
+    "group": "missing"
+  },
+  {
+    "speciees": "Orthopristis chrysoptera",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Dasyatis say",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dasyatis say",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Menidia spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menidia spp.",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus isodon",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Tunicata",
+    "group": "missing"
+  },
+  {
+    "speciees": "Tunicata",
+    "group": "Squid"
+  },
+  {
+    "species": "Menticirrhus spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menticirrhus spp.",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Hydroprogne caspia",
+    "group": "missing"
+  },
+  {
+    "speciees": "Hydroprogne caspia",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Sternula antillarum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sternula antillarum",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Scyllaridae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scyllaridae",
+    "group": "Grouper"
+  },
+  {
+    "species": "Lolliguncula brevis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lolliguncula brevis",
+    "group": "Squid"
+  },
+  {
+    "species": "Callinectes sapidus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Callinectes sapidus",
+    "group": "Blue Crab"
+  },
+  {
+    "species": "Galeocerdo cuvier",
+    "group": "missing"
+  },
+  {
+    "speciees": "Galeocerdo cuvier",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Bivalvia",
+    "group": "missing"
+  },
+  {
+    "speciees": "Bivalvia",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Decapoda",
+    "group": "missing"
+  },
+  {
+    "speciees": "Decapoda",
+    "group": "Penaeid Shrimp"
+  },
+  {
+    "species": "Tursiops truncatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Tursiops truncatus",
+    "group": "Coastal Dolphins"
+  },
+  {
+    "species": "Bairdiella chrysoura",
+    "group": "missing"
+  },
+  {
+    "speciees": "Bairdiella chrysoura",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Paralichthys albigutta",
+    "group": "missing"
+  },
+  {
+    "speciees": "Paralichthys albigutta",
+    "group": "Flounders"
+  },
+  {
+    "species": "Carcharhinus leucas",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus leucas",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Lutjanus griseus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lutjanus griseuus",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Carcharhinus limbatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus limbatus",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Dorosoma petenense",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dorosoma petenense",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Lagodon rhomboides",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lagodon rhomboides",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Sterna hirundo",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sterna hirundo",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Opsanus beta",
+    "group": "missing"
+  },
+  {
+    "speciees": "Opsanus beta",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Mycteroperca spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mycteroperca spp.",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Caranx hippos",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caranx hippos",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Ginglymostoma cirratum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ginglymostoma cirratum",
+    "group": "Sea Catfishes"
+  },
+  {
+    "species": "Lepisosteus osseus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lepisosteus osseu",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Carcharhinus plumbeus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus plumbeus",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Opisthonema oglinum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Opisthonema oglinum",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Bagre marinus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Bagre marinus",
+    "group": "Sea Catfishes"
+  },
+  {
+    "species": "Trachurus lathami",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trachurus lathami",
+    "group": "Sea Catfishes"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Leiostomus xanthurus",
+    "group": "Mullets"
+  },
+  {
+    "species": "Rhizoprionodon terraenovae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Rhizoprionodon terraenovae",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Pelecanus erythrorhynchos",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pelecanus erythrorhynchos",
+    "group": "Pelicaniformes"
+  },
+  {
+    "species": "Echinodermata",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ecchinodermata",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Stenella frontalis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stenella frontalis",
+    "group": "Coastal Dolphins"
+  },
+  {
+    "species": "Dasyatis centroura",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dasyatis centroura",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Amphipoda",
+    "group": "missing"
+  },
+  {
+    "speciees": "Amphipoda",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Menippe mercenaria",
+    "group": "missing"
+  },
+  {
+    "speciees": "Menippe mercenaria",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Sphyrna mokarran",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna mokarran",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Crassostrea virginica",
+    "group": "missing"
+  },
+  {
+    "speciees": "Crassostrea virginica",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna tiburo",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Trichiurus lepturus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trichiurus lepturus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Peprilus burti",
+    "group": "missing"
+  },
+  {
+    "speciees": "Peprilus burti",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Leucophaeus atricilla",
+    "group": "missing"
+  },
+  {
+    "speciees": "Leucophaeus atrricilla",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Gavia immer",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gavia immer",
+    "group": "Loons"
+  },
+  {
+    "species": "Larus delawarensis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Larus delawarensis",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Trinectes maculatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trinectes maculatus",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Tetraodontidae spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Tetraodontidae spp.",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Actiniaria",
+    "group": "missing"
+  },
+  {
+    "speciees": "Actiniaria",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Carcharhinus brevipinna",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus brevipinna",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Thunnus atlanticus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thunnus atlanticus",
+    "group": "Tunas"
+  },
+  {
+    "species": "Harengula jaguana",
+    "group": "missing"
+  },
+  {
+    "speciees": "Harengula jaguana",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Sterna forsteri",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sterna forsteri",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Gelochelidon nilotica",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gelochelidon nilotica",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Sphyrna zygaena",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna zygaena",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ariopsis felis",
+    "group": "Grouper"
+  },
+  {
+    "species": "Penaeidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Penaeidae",
+    "group": "Penaeid Shrimp"
+  },
+  {
+    "species": "Cynoscion nebulosus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Cygnus nebuolosus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna lewini",
+    "group": "Small Coastal Sharks"
+  },
+  {
+    "species": "Pomatomus saltatrix",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pomatomus saltatrix",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Larus marinus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Larus marinus",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Carcharhinus falciformis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus falciformiis",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Atractosteus spatula",
+    "group": "missing"
+  },
+  {
+    "speciees": "Atractosteus spatula",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Fregata magnificens",
+    "group": "missing"
+  },
+  {
+    "speciees": "Fregata magnificens",
+    "group": "Pelicaniformes"
+  },
+  {
+    "species": "Gastropoda",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gastropoda",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Doryteuthis pealeii",
+    "group": "missing"
+  },
+  {
+    "speciees": "Doryteuthis pealeii",
+    "group": "Squid"
+  },
+  {
+    "species": "Cyprinodontidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Cyprinodontidae",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Scomberomorus maculatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scomberomorus maculatus",
+    "group": "Mullets"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Carcharhinus acronotus",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Dasyatis sabina",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dasyatis sabina",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Caranx crysos",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caranx crysos",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Thalasseus sandvicensis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thalasseuus sandvicensis",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Caridea",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caridea",
+    "group": "Penaeid Shrimp"
+  },
+  {
+    "species": "Chaetodipterus faber",
+    "group": "missing"
+  },
+  {
+    "speciees": "Chaetodipterus faber",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Dorosoma cepedianum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dorosoma cepedianum",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Etrumeus teres",
+    "group": "missing"
+  },
+  {
+    "speciees": "Etrumeus teres",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Archosargus probatocephalus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Archosargus probatocephalus",
+    "group": "Atlantic Croaker"
+  },
+  {
+    "species": "Thalasseus maximus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thalasseuus maximus",
+    "group": "Large Coastal Sharks"
+  },
+  {
+    "species": "Lutjanus synagris",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lutjanus synagris",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Epinephelus spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epinephelus spp.",
+    "group": "Grouper"
+  },
+  {
+    "species": "Pandion haliaetus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pandion haliatus",
+    "group": "Birds of Prey"
+  },
+  {
+    "species": "Morus bassanus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Morus bassanus",
+    "group": "Atlantic Croaker"
+  },
+  {
+    "species": "Raja eglanteria",
+    "group": "missing"
+  },
+  {
+    "speciees": "Raja eglanteria",
+    "group": "Skates and Rays"
+  },
+  {
+    "species": "Haemulon spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Haemulon spp.",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Annelida",
+    "group": "missing"
+  },
+  {
+    "speciees": "Annelida",
+    "group": "Benthic Invertebrates"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mugilcephalus",
+    "group": "Mullets"
+  },
+  {
+    "species": "Larus argentatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Larus argentatus",
+    "group": "Gulls and Terns"
+  },
+  {
+    "species": "Loligo plei",
+    "group": "missing"
+  },
+  {
+    "speciees": "Loligo plei",
+    "group": "Squid"
+  },
+  {
+    "species": "Micropogonias undulatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Micropogonias undulatus",
+    "group": "Anchovies and Other Small Fishes"
+  },
+  {
+    "species": "Rhinoptera bonasus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Rhinopecten bonasus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Sciaenops ocellatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sciaenops ocellatus",
+    "group": "Other Clupeids"
+  },
+  {
+    "species": "Anchoa hepsetus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Anchoa hepsetus",
+    "group": "Anchoovies and Other Small Fishes"
+  },
+  {
+    "species": "Pogonias cromis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pogonias cromis",
+    "group": "Black Drum"
+  },
+  {
+    "species": "Anchoa mitchilli",
+    "group": "missing"
+  },
+  {
+    "speciees": "Anchoa mitchilli",
+    "group": "Anchoovies and Other Small Fishes"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "missing"
+  },
+  {
+    "speciees": "Saridinella aurita",
+    "group": "Anchovies and Other Small Fishes"
+  }
+]

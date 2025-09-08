@@ -1,0 +1,406 @@
+[
+  {
+    "id": "species_0",
+    "species": "Grapsus adscensionis"
+  },
+  {
+    "id": "species_1",
+    "species": "Thunnus obesus"
+  },
+  {
+    "id": "species_2",
+    "species": "Sardina pilchardus"
+  },
+  {
+    "id": "species_3",
+    "species": "Ascididae"
+  },
+  {
+    "id": "species_4",
+    "species": "Amphinomidae"
+  },
+  {
+    "id": "species_5",
+    "species": "Ophiodermatidae"
+  },
+  {
+    "id": "species_6",
+    "species": "Onuphidae"
+  },
+  {
+    "id": "species_7",
+    "species": "Siphonoridae"
+  },
+  {
+    "id": "species_8",
+    "species": "Patellidae"
+  },
+  {
+    "id": "species_9",
+    "species": "Sarpa salpa"
+  },
+  {
+    "id": "species_10",
+    "species": "Coryphaena spp."
+  },
+  {
+    "id": "species_11",
+    "species": "Aplysiidae"
+  },
+  {
+    "id": "species_12",
+    "species": "Spondyliosoma cantharus"
+  },
+  {
+    "id": "species_13",
+    "species": "Trachurus trachurus"
+  },
+  {
+    "id": "species_14",
+    "species": "Eriphia verrucosa"
+  },
+  {
+    "id": "species_15",
+    "species": "Chaceon affini"
+  },
+  {
+    "id": "species_16",
+    "species": "Mustelus mustelus"
+  },
+  {
+    "id": "species_17",
+    "species": "Solea solea"
+  },
+  {
+    "id": "species_18",
+    "species": "Diadema africanum"
+  },
+  {
+    "id": "species_19",
+    "species": "Seagrass/Seaweed"
+  },
+  {
+    "id": "species_20",
+    "species": "Pelagia noctiluca"
+  },
+  {
+    "id": "species_21",
+    "species": "Makaira nigricans"
+  },
+  {
+    "id": "species_22",
+    "species": "Palaemonidae"
+  },
+  {
+    "id": "species_23",
+    "species": "Stephanolepis hispidus"
+  },
+  {
+    "id": "species_24",
+    "species": "Polyprion americanus"
+  },
+  {
+    "id": "species_25",
+    "species": "Octopus vulgaris"
+  },
+  {
+    "id": "species_26",
+    "species": "Argyrosomus regius"
+  },
+  {
+    "id": "species_27",
+    "species": "Ophidiasteridae"
+  },
+  {
+    "id": "species_28",
+    "species": "Mesoplodon densirostris"
+  },
+  {
+    "id": "species_29",
+    "species": "Physeter macrocephalus"
+  },
+  {
+    "id": "species_30",
+    "species": "Cerithidae"
+  },
+  {
+    "id": "species_31",
+    "species": "Squatina squatina"
+  },
+  {
+    "id": "species_32",
+    "species": "Sepia officinalis"
+  },
+  {
+    "id": "species_33",
+    "species": "Sardinella aurita"
+  },
+  {
+    "id": "species_34",
+    "species": "Serranus atricauda"
+  },
+  {
+    "id": "species_35",
+    "species": "Pontinus kuhlii"
+  },
+  {
+    "id": "species_36",
+    "species": "Pagellus acarne"
+  },
+  {
+    "id": "species_37",
+    "species": "Chromis limbata"
+  },
+  {
+    "id": "species_38",
+    "species": "Dentex gibbosus"
+  },
+  {
+    "id": "species_39",
+    "species": "Thunnus thynnus"
+  },
+  {
+    "id": "species_40",
+    "species": "Pagellus erythrinus"
+  },
+  {
+    "id": "species_41",
+    "species": "Diplodus cervinus"
+  },
+  {
+    "id": "species_42",
+    "species": "Gymnothorax unicolor"
+  },
+  {
+    "id": "species_43",
+    "species": "Detritus"
+  },
+  {
+    "id": "species_44",
+    "species": "Serranus cabrilla"
+  },
+  {
+    "id": "species_45",
+    "species": "Diplodus puntazzo"
+  },
+  {
+    "id": "species_46",
+    "species": "Parapristipoma octolineatum"
+  },
+  {
+    "id": "species_47",
+    "species": "Plesionika narval"
+  },
+  {
+    "id": "species_48",
+    "species": "Trachurus picturatus"
+  },
+  {
+    "id": "species_49",
+    "species": "Grapsidae"
+  },
+  {
+    "id": "species_50",
+    "species": "Mycteroperca fusca"
+  },
+  {
+    "id": "species_51",
+    "species": "Mora moro"
+  },
+  {
+    "id": "species_52",
+    "species": "Tursiops truncatus"
+  },
+  {
+    "id": "species_53",
+    "species": "Illex condeitii"
+  },
+  {
+    "id": "species_54",
+    "species": "Cancer spp."
+  },
+  {
+    "id": "species_55",
+    "species": "Calonectris diomedea"
+  },
+  {
+    "id": "species_56",
+    "species": "Plesionika edwarsii"
+  },
+  {
+    "id": "species_57",
+    "species": "Antedonidae"
+  },
+  {
+    "id": "species_58",
+    "species": "Muraena augusti"
+  },
+  {
+    "id": "species_59",
+    "species": "Columbellidae"
+  },
+  {
+    "id": "species_60",
+    "species": "Bulweria bulwerii"
+  },
+  {
+    "id": "species_61",
+    "species": "Paracentrothus lividus"
+  },
+  {
+    "id": "species_62",
+    "species": "Diplodus vulgaris"
+  },
+  {
+    "id": "species_63",
+    "species": "Haliotidae"
+  },
+  {
+    "id": "species_64",
+    "species": "Stenoteuthis pteropus"
+  },
+  {
+    "id": "species_65",
+    "species": "Diplodus sargus"
+  },
+  {
+    "id": "species_66",
+    "species": "Oblada melanura"
+  },
+  {
+    "id": "species_67",
+    "species": "Gymnothorax polygonus"
+  },
+  {
+    "id": "species_68",
+    "species": "Acanthocybium solandri"
+  },
+  {
+    "id": "species_69",
+    "species": "Scyllarides latus"
+  },
+  {
+    "id": "species_70",
+    "species": "Maja spp."
+  },
+  {
+    "id": "species_71",
+    "species": "Seriola spp."
+  },
+  {
+    "id": "species_72",
+    "species": "Xiphias gladius"
+  },
+  {
+    "id": "species_73",
+    "species": "Abudefduf luridus"
+  },
+  {
+    "id": "species_74",
+    "species": "Boops boops"
+  },
+  {
+    "id": "species_75",
+    "species": "Trochidae"
+  },
+  {
+    "id": "species_76",
+    "species": "Sphyrna lewini"
+  },
+  {
+    "id": "species_77",
+    "species": "Isurus oxyrinchus"
+  },
+  {
+    "id": "species_78",
+    "species": "Physalia physalis"
+  },
+  {
+    "id": "species_79",
+    "species": "Pagrus auriga"
+  },
+  {
+    "id": "species_80",
+    "species": "Diplodus annularis"
+  },
+  {
+    "id": "species_81",
+    "species": "Caretta caretta"
+  },
+  {
+    "id": "species_82",
+    "species": "Beryx splendens"
+  },
+  {
+    "id": "species_83",
+    "species": "Pagrus pagrus"
+  },
+  {
+    "id": "species_84",
+    "species": "Heterocarpus ensifer"
+  },
+  {
+    "id": "species_85",
+    "species": "Asteriidae"
+  },
+  {
+    "id": "species_86",
+    "species": "Palinurus elephas"
+  },
+  {
+    "id": "species_87",
+    "species": "Phycis phycis"
+  },
+  {
+    "id": "species_88",
+    "species": "Holothuriidae"
+  },
+  {
+    "id": "species_89",
+    "species": "Helicolenus dactylopterus"
+  },
+  {
+    "id": "species_90",
+    "species": "Apogon imberbis"
+  },
+  {
+    "id": "species_91",
+    "species": "Promethichthys prometeus"
+  },
+  {
+    "id": "species_92",
+    "species": "Zooplankton"
+  },
+  {
+    "id": "species_93",
+    "species": "Thalasoma pavo"
+  },
+  {
+    "id": "species_94",
+    "species": "Bodianus scrofa"
+  },
+  {
+    "id": "species_95",
+    "species": "Merluccius merluccius"
+  },
+  {
+    "id": "species_96",
+    "species": "Panulirus echinatus"
+  },
+  {
+    "id": "species_97",
+    "species": "Engraulis encrasicolus"
+  },
+  {
+    "id": "species_98",
+    "species": "Atherina presbyter"
+  },
+  {
+    "id": "species_99",
+    "species": "Ommastrephes bartrami"
+  },
+  {
+    "speciees": "Ommastrephe s bartrami",
+    "group": "Tunas"
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "species": "Epinephelus guttatus",
+    "group": "missing"
+  },
+  {
+    "species": "Centropristis striata",
+    "group": "missing"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "missing"
+  },
+  {
+    "species": "Paralichthys albigutta",
+    "group": "missing"
+  },
+  {
+    "species": "Menidia beryllina",
+    "group": "missing"
+  },
+  {
+    "species": "Cynoscion arenarius",
+    "group": "missing"
+  },
+  {
+    "species": "Haemulon aurolineatum",
+    "group": "missing"
+  },
+  {
+    "species": "Cynoscion nebulosus",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus leucas",
+    "group": "missing"
+  },
+  {
+    "species": "Sicyonia brevirostris",
+    "group": "missing"
+  },
+  {
+    "species": "Caulolatilus spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Eucinostomus harengulus",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus itajara",
+    "group": "missing"
+  },
+  {
+    "species": "Scarus croicensis",
+    "group": "missing"
+  },
+  {
+    "species": "Gymnura micrura",
+    "group": "missing"
+  },
+  {
+    "species": "Stomatopods",
+    "group": "missing"
+  },
+  {
+    "species": "Monacanthus ciliatus",
+    "group": "missing"
+  },
+  {
+    "species": "Rhizoprionodon terraenovae",
+    "group": "missing"
+  },
+  {
+    "species": "Trachinotus carolinus",
+    "group": "missing"
+  },
+  {
+    "species": "Pomatomus saltatrix",
+    "group": "missing"
+  },
+  {
+    "species": "Callinectes sapidus",
+    "group": "missing"
+  },
+  {
+    "species": "Centropristis ocyurus",
+    "group": "missing"
+  },
+  {
+    "species": "Raja eglanteria",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus adscensionis",
+    "group": "missing"
+  },
+  {
+    "species": "Raja texana",
+    "group": "missing"
+  },
+  {
+    "species": "Hemiramphus balao",
+    "group": "missing"
+  },
+  {
+    "species": "Mugil gyrans",
+    "group": "missing"
+  },
+  {
+    "species": "Ablennes hians",
+    "group": "missing"
+  },
+  {
+    "species": "Pomacentrus variabilis",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus campechanus",
+    "group": "missing"
+  },
+  {
+    "species": "Chromis cyanea",
+    "group": "missing"
+  },
+  {
+    "species": "Xiphias gladius",
+    "group": "missing"
+  },
+  {
+    "species": "Isurus oxyrinchus",
+    "group": "missing"
+  },
+  {
+    "species": "Pogonias cromis",
+    "group": "missing"
+  },
+  {
+    "species": "Conger spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Odontaspis taurus",
+    "group": "missing"
+  },
+  {
+    "species": "Prionotus rubio",
+    "group": "missing"
+  },
+  {
+    "species": "Tetrapturus spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Mugil cephalus",
+    "group": "missing"
+  },
+  {
+    "species": "Palaemonetes intermedius",
+    "group": "missing"
+  },
+  {
+    "species": "Microgobius gulosus",
+    "group": "missing"
+  },
+  {
+    "species": "Saurida brasiliensis",
+    "group": "missing"
+  },
+  {
+    "species": "Ariopsis felis",
+    "group": "missing"
+  },
+  {
+    "species": "Sciaenops ocellatus",
+    "group": "missing"
+  },
+  {
+    "species": "Prionotus stearnsi",
+    "group": "missing"
+  },
+  {
+    "species": "Apogon maculatus",
+    "group": "missing"
+  },
+  {
+    "species": "Halieutichthys aculeatus",
+    "group": "missing"
+  },
+  {
+    "species": "Opistognathus aurifrons",
+    "group": "missing"
+  },
+  {
+    "species": "Dasyatis say",
+    "group": "missing"
+  },
+  {
+    "species": "Opsanus tau",
+    "group": "missing"
+  },
+  {
+    "species": "Haemulon plumieri",
+    "group": "missing"
+  },
+  {
+    "species": "Paralichthys lethostigma",
+    "group": "missing"
+  },
+  {
+    "species": "Rypticus spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna tiburo",
+    "group": "missing"
+  },
+  {
+    "species": "Chaetodipterus faber",
+    "group": "missing"
+  },
+  {
+    "species": "Stomolophus eleagris",
+    "group": "missing"
+  },
+  {
+    "species": "Galeocerdo cuvieri",
+    "group": "missing"
+  },
+  {
+    "species": "Centropomus undecimalis",
+    "group": "missing"
+  },
+  {
+    "species": "Thunnus albacares",
+    "group": "missing"
+  },
+  {
+    "species": "Mycteroperca microlepis",
+    "group": "missing"
+  },
+  {
+    "species": "Rhinobatos lentiginosus",
+    "group": "missing"
+  },
+  {
+    "species": "Chilomycterus schoepfi",
+    "group": "missing"
+  },
+  {
+    "species": "Diplectrum bivittatum",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus obscurus",
+    "group": "missing"
+  },
+  {
+    "species": "Bathygobius soporator",
+    "group": "missing"
+  },
+  {
+    "species": "Centropristis philadelphica",
+    "group": "missing"
+  },
+  {
+    "species": "Eucinostomus spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Caranx crysos",
+    "group": "missing"
+  },
+  {
+    "species": "Lagodon rhomboides",
+    "group": "missing"
+  },
+  {
+    "species": "Etropus rimosus",
+    "group": "missing"
+  },
+  {
+    "species": "Eugerres plumieri",
+    "group": "missing"
+  },
+  {
+    "species": "Diplectrum formosum",
+    "group": "missing"
+  },
+  {
+    "species": "Malacanthus plumieri",
+    "group": "missing"
+  },
+  {
+    "species": "Brevoortia spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Dasyatidae spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Penaeus duorarum",
+    "group": "missing"
+  },
+  {
+    "species": "Hemiramphus brasiliensis",
+    "group": "missing"
+  },
+  {
+    "species": "Serranus notospilus",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus plumbeus",
+    "group": "missing"
+  },
+  {
+    "species": "Diplodus holbrooki",
+    "group": "missing"
+  },
+  {
+    "species": "Trachurus lathami",
+    "group": "missing"
+  },
+  {
+    "species": "Urolophus jamaicensis",
+    "group": "missing"
+  },
+  {
+    "species": "Stephanolepis hispidus",
+    "group": "missing"
+  },
+  {
+    "species": "Scomber japonicus",
+    "group": "missing"
+  },
+  {
+    "species": "Cyclopsetta fimbriata",
+    "group": "missing"
+  },
+  {
+    "species": "Microspathodon chrysurus",
+    "group": "missing"
+  },
+  {
+    "species": "Etelis oculatus",
+    "group": "missing"
+  },
+  {
+    "species": "Symphurus plagiusa",
+    "group": "missing"
+  },
+  {
+    "species": "Parablennius marmoreus",
+    "group": "missing"
+  },
+  {
+    "species": "Malacanthidae spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus morio",
+    "group": "missing"
+  },
+  {
+    "species": "Gymnothorax moringa",
+    "group": "missing"
+  },
+  {
+    "species": "Hexanus griseus",
+    "group": "missing"
+  },
+  {
+    "species": "Synagrops spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Harengula jaguana",
+    "group": "missing"
+  },
+  {
+    "species": "Aluterus scriptus",
+    "group": "missing"
+  },
+  {
+    "species": "Syngnathus scovelli",
+    "group": "missing"
+  },
+  {
+    "species": "Sphoeroides nephelus",
+    "group": "missing"
+  },
+  {
+    "species": "Rachycentron canadum",
+    "group": "missing"
+  },
+  {
+    "species": "Bairdiella chrysoura",
+    "group": "missing"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "missing"
+  },
+  {
+    "species": "Thunnus atlanticus",
+    "group": "missing"
+  },
+  {
+    "species": "Holothurians",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus acronotus",
+    "group": "missing"
+  },
+  {
+    "species": "Katsuwonus pelamis",
+    "group": "missing"
+  },
+  {
+    "species": "Ocyurus chrysurus",
+    "group": "missing"
+  },
+  {
+    "species": "Hirundichthys affinis",
+    "group": "missing"
+  },
+  {
+    "species": "Halichoeres bivittatus",
+    "group": "missing"
+  },
+  {
+    "species": "Menticirrhus americanus",
+    "group": "missing"
+  },
+  {
+    "species": "Equetus lanceolatus",
+    "group": "missing"
+  },
+  {
+    "species": "Harengula spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Scorpaena brasiliensis",
+    "group": "missing"
+  },
+  {
+    "species": "Chasmodes saburrae",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus drummondhayi",
+    "group": "missing"
+  },
+  {
+    "species": "Hippocampus zosterae",
+    "group": "missing"
+  },
+  {
+    "species": "Calamus penna",
+    "group": "missing"
+  },
+  {
+    "species": "Cynoscion nothus",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus isodon",
+    "group": "missing"
+  },
+  {
+    "species": "Menticirrhus saxatilis",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus cruentatus",
+    "group": "missing"
+  },
+  {
+    "species": "Etrumeus teres",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus flavolimbatus",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus brevipinna",
+    "group": "missing"
+  },
+  {
+    "species": "Calamus bajonado",
+    "group": "missing"
+  },
+  {
+    "species": "Mobulidae spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Limulus polyphemus",
+    "group": "missing"
+  },
+  {
+    "species": "Archosargus probatocephalus",
+    "group": "missing"
+  },
+  {
+    "species": "Mycteroperca phenax",
+    "group": "missing"
+  },
+  {
+    "species": "Selene vomer",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna mokarran",
+    "group": "missing"
+  },
+  {
+    "species": "Citharichthys macrops",
+    "group": "missing"
+  },
+  {
+    "species": "Prionotus tribulus",
+    "group": "missing"
+  },
+  {
+    "species": "Strongylura timucu",
+    "group": "missing"
+  },
+  {
+    "species": "Rhinobatidae spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Oligoplites saurus",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus griseus",
+    "group": "missing"
+  },
+  {
+    "species": "Strongylura marina",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus apodus",
+    "group": "missing"
+  },
+  {
+    "species": "Scomberomorus cavalla",
+    "group": "missing"
+  },
+  {
+    "species": "Alopias vulpinus",
+    "group": "missing"
+  },
+  {
+    "species": "Brevoortia smithi",
+    "group": "missing"
+  },
+  {
+    "species": "Syacium papillosum",
+    "group": "missing"
+  },
+  {
+    "species": "Loligo pealeii",
+    "group": "missing"
+  },
+  {
+    "species": "Calamus proridens",
+    "group": "missing"
+  },
+  {
+    "species": "Gobiosoma robustum",
+    "group": "missing"
+  },
+  {
+    "species": "Ariomma bondi",
+    "group": "missing"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "missing"
+  },
+  {
+    "species": "Ancylopsetta quadrocellata",
+    "group": "missing"
+  },
+  {
+    "species": "Eucinostomus gula",
+    "group": "missing"
+  },
+  {
+    "species": "Scomberomorus maculatus",
+    "group": "missing"
+  },
+  {
+    "species": "Euthynnus alletteratus",
+    "group": "missing"
+  },
+  {
+    "species": "Lactophrys trigonus",
+    "group": "missing"
+  },
+  {
+    "species": "Trachinotus falcatus",
+    "group": "missing"
+  },
+  {
+    "species": "Istiophorus platypterus",
+    "group": "missing"
+  },
+  {
+    "species": "Scorpaena calcarata",
+    "group": "missing"
+  },
+  {
+    "species": "Stenotomus caprinus",
+    "group": "missing"
+  },
+  {
+    "species": "Mugil curema",
+    "group": "missing"
+  },
+  {
+    "species": "Negaprion brevirostris",
+    "group": "missing"
+  },
+  {
+    "species": "Jenkinsia lamprotaenia",
+    "group": "missing"
+  },
+  {
+    "species": "Elops saurus",
+    "group": "missing"
+  },
+  {
+    "species": "Pomacanthus arcuatus",
+    "group": "missing"
+  },
+  {
+    "species": "Synodus foetens",
+    "group": "missing"
+  },
+  {
+    "species": "Selar crumenophthalmus",
+    "group": "missing"
+  },
+  {
+    "species": "Tursiops truncatus",
+    "group": "missing"
+  },
+  {
+    "species": "Micropogonias undulatus",
+    "group": "missing"
+  },
+  {
+    "species": "Decapterus punctatus",
+    "group": "missing"
+  },
+  {
+    "species": "Condylactis gigantea",
+    "group": "missing"
+  },
+  {
+    "species": "Bagre marinus",
+    "group": "missing"
+  },
+  {
+    "species": "Chaetodon ocellatus",
+    "group": "missing"
+  },
+  {
+    "species": "Panulirus argus",
+    "group": "missing"
+  },
+  {
+    "species": "Anchoa hepsetus",
+    "group": "missing"
+  },
+  {
+    "species": "Thunnus alalunga",
+    "group": "missing"
+  },
+  {
+    "species": "Trinectes maculatus",
+    "group": "missing"
+  },
+  {
+    "species": "Pomacentrus leucostictus",
+    "group": "missing"
+  },
+  {
+    "species": "Caranx hippos",
+    "group": "missing"
+  },
+  {
+    "species": "Anchoa mitchilli",
+    "group": "missing"
+  },
+  {
+    "species": "Rhinoptera bonasus",
+    "group": "missing"
+  },
+  {
+    "species": "Cynoglossidae spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Makaira spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Calamus arctifrons",
+    "group": "missing"
+  },
+  {
+    "species": "Balistes capriscus",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus falciformis",
+    "group": "missing"
+  },
+  {
+    "species": "Dasyatis centroura",
+    "group": "missing"
+  },
+  {
+    "species": "Coryphaena hippurus",
+    "group": "missing"
+  },
+  {
+    "species": "Thunnus thynnus",
+    "group": "missing"
+  },
+  {
+    "species": "Pontinus longispinis",
+    "group": "missing"
+  },
+  {
+    "species": "Lactophrys spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Strongylura notata",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus niveatus",
+    "group": "missing"
+  },
+  {
+    "species": "Synodus intermedius",
+    "group": "missing"
+  },
+  {
+    "species": "Gobiosoma bosc",
+    "group": "missing"
+  },
+  {
+    "species": "Octopus sp.",
+    "group": "missing"
+  },
+  {
+    "species": "Opisthonema oglinum",
+    "group": "missing"
+  },
+  {
+    "species": "Prionotus scitulus",
+    "group": "missing"
+  },
+  {
+    "species": "Rhomboplites aurorubens",
+    "group": "missing"
+  },
+  {
+    "species": "Pagrus pagrus",
+    "group": "missing"
+  },
+  {
+    "species": "Anisotremus virginicus",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyraena barracuda",
+    "group": "missing"
+  },
+  {
+    "species": "Menippe spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Gobiosoma spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Holocentrus ascensionis",
+    "group": "missing"
+  },
+  {
+    "species": "Ogcocephalus nasutus",
+    "group": "missing"
+  },
+  {
+    "species": "Dasyatis sabina",
+    "group": "missing"
+  },
+  {
+    "species": "Holocentrus coruscus",
+    "group": "missing"
+  },
+  {
+    "species": "Peprilus alepidotus",
+    "group": "missing"
+  },
+  {
+    "species": "Peprilus burti",
+    "group": "missing"
+  },
+  {
+    "species": "Sphoeroides spengleri",
+    "group": "missing"
+  },
+  {
+    "species": "Aluterus schoepfi",
+    "group": "missing"
+  },
+  {
+    "species": "Calamus leucosteus",
+    "group": "missing"
+  },
+  {
+    "species": "Seriola dumerili",
+    "group": "missing"
+  },
+  {
+    "species": "Holacanthus bermudensis",
+    "group": "missing"
+  },
+  {
+    "species": "Antennarius multiocellatus",
+    "group": "missing"
+  },
+  {
+    "species": "Synodus spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Chromis enchrysurus",
+    "group": "missing"
+  },
+  {
+    "species": "Hippocampus erectus",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus analis",
+    "group": "missing"
+  },
+  {
+    "species": "Menidia spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "missing"
+  },
+  {
+    "species": "Opsanus beta",
+    "group": "missing"
+  },
+  {
+    "species": "Lutjanus synagris",
+    "group": "missing"
+  },
+  {
+    "species": "Pristipomoides aquilonaris",
+    "group": "missing"
+  },
+  {
+    "species": "Mycteroperca interstitialis",
+    "group": "missing"
+  },
+  {
+    "species": "Gymnothorax vicinus",
+    "group": "missing"
+  },
+  {
+    "species": "Megalops atlanticus",
+    "group": "missing"
+  },
+  {
+    "species": "Lobotes surinamensis",
+    "group": "missing"
+  },
+  {
+    "species": "Carcharhinus limbatus",
+    "group": "missing"
+  },
+  {
+    "species": "Mycteroperca venenosa",
+    "group": "missing"
+  },
+  {
+    "species": "Chloroscombrus chrysurus",
+    "group": "missing"
+  },
+  {
+    "species": "Orthopristis chrysoptera",
+    "group": "missing"
+  },
+  {
+    "species": "Acanthostracion quadricornis",
+    "group": "missing"
+  },
+  {
+    "species": "Mellita quinquiesperfora",
+    "group": "missing"
+  }
+]

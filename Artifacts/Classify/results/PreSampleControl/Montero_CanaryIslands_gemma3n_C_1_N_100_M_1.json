@@ -1,0 +1,802 @@
+[
+  {
+    "species": "Dentex dentex",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dentex dentex",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Plesionika edwarsii",
+    "group": "missing"
+  },
+  {
+    "speciees": "Plesionika edwarsii",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Makaira nigricans",
+    "group": "missing"
+  },
+  {
+    "speciees": "Makaira nigricans",
+    "group": "Tunas"
+  },
+  {
+    "species": "Scomber colias",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scomber colias",
+    "group": "Tunas"
+  },
+  {
+    "species": "Thunnus alalunga",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thunnus alalunga",
+    "group": "Tunas"
+  },
+  {
+    "species": "Apogon imberbis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Apogon imberbis",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Prionace glauca",
+    "group": "missing"
+  },
+  {
+    "speciees": "Priopac glauca",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Solea solea",
+    "group": "missing"
+  },
+  {
+    "speciees": "Solea solea",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Seriola spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Seriola spp.",
+    "group": "Tunas"
+  },
+  {
+    "species": "DSL",
+    "group": "missing"
+  },
+  {
+    "speciees": "DSL",
+    "group": "DSL"
+  },
+  {
+    "species": "Illex condeitii",
+    "group": "missing"
+  },
+  {
+    "speciees": "Illex condeitii",
+    "group": "Benthic cephalopods"
+  },
+  {
+    "species": "Serranus cabrilla",
+    "group": "missing"
+  },
+  {
+    "speciees": "Seerranus cabrilla",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Phytoplankton",
+    "group": "missing"
+  },
+  {
+    "speciees": "Phytoplankton",
+    "group": "Phytoplankton"
+  },
+  {
+    "species": "Enchelycore anatina",
+    "group": "missing"
+  },
+  {
+    "speciees": "Enchelycore anatina",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Ophiodermatidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Ophiodermatidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Trachurus trachurus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trachurus trachurus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Sarpa salpa",
+    "group": "missing"
+  },
+  {
+    "speciees": "Saarp ssalpa",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Argyrosomus regius",
+    "group": "missing"
+  },
+  {
+    "speciees": "Argyrosomus regius",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Patellidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Patellidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Pagrus auriga",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pagrus auriga",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Pagellus acarne",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pagellus acarne",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Plesionika narval",
+    "group": "missing"
+  },
+  {
+    "speciees": "Plesionika narval",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Palinurus elephas",
+    "group": "missing"
+  },
+  {
+    "speciees": "Palinurus elephas",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Caretta caretta",
+    "group": "missing"
+  },
+  {
+    "speciees": "Caretta caretta",
+    "group": "Turtles"
+  },
+  {
+    "species": "Chaceon affini",
+    "group": "missing"
+  },
+  {
+    "speciees": "Chaceoon affini",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Mesoplodon densirostris",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mesoplodon densirostris",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Sepia officinalis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sepia officinaliis",
+    "group": "Molluscs"
+  },
+  {
+    "species": "Promethichthys prometeus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Promethichthys prometeus",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Pontinus kuhlii",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pontinus kuhlii",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Grapsus adscensionis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Grapsus adscensionis",
+    "group": "Benthic cephalopods"
+  },
+  {
+    "species": "Palaemonidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Palaemonidae",
+    "group": "Benthic cephalopods"
+  },
+  {
+    "species": "Abudefduf luridus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Abudefduf luridus",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Trochidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trochidae",
+    "group": "Molluscs"
+  },
+  {
+    "species": "Cancer spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Cancer spp.",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Octopus vulgaris",
+    "group": "missing"
+  },
+  {
+    "speciees": "Octopus vulgaris",
+    "group": "Benthic cephalopods"
+  },
+  {
+    "species": "Lithognathus mormyrus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Lithognathu\u03c2 mormyrus",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Heterocarpus ensifer",
+    "group": "missing"
+  },
+  {
+    "speciees": "Heterocarpus ensifer",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Atherina presbyter",
+    "group": "missing"
+  },
+  {
+    "speciees": "Atherina presbyter",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Dentex gibbosus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dentex gibbosus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Diplodus vulgaris",
+    "group": "missing"
+  },
+  {
+    "speciees": "Diplodus vulgaris",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Scyllarides latus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scyllarides latus",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Epigonus telescopus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Epigonuus telescopus",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Haliotidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Halaliotidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Trachurus picturatus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trachurus picturatus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Asteriidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Asteriidae",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Oblada melanura",
+    "group": "missing"
+  },
+  {
+    "speciees": "Oblada melanura",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Aphanopus carbo",
+    "group": "missing"
+  },
+  {
+    "speciees": "Aphanopus carbo",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Stephanolepis hispidus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stephanolepis hispidus",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Zooplankton",
+    "group": "missing"
+  },
+  {
+    "speciees": "Zooplankton",
+    "group": "Zooplankton"
+  },
+  {
+    "species": "Mustelus mustelus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mustelus mustelus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Sphyrna zygaena",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna zygaena",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "missing"
+  },
+  {
+    "speciees": "Saridinella aurita",
+    "group": "Shrimps"
+  },
+  {
+    "species": "Chromis limbata",
+    "group": "missing"
+  },
+  {
+    "speciees": "Chromis limbata",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Serranus scriba",
+    "group": "missing"
+  },
+  {
+    "speciees": "Seerranus scriba",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Scorpaena spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Scorpaena spp.",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Holothuriidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Holothuriidae",
+    "group": "Benthic invetebrates"
+  },
+  {
+    "species": "Xiphias gladius",
+    "group": "missing"
+  },
+  {
+    "speciees": "Xiphias gladius",
+    "group": "Tunas"
+  },
+  {
+    "species": "Paracentrothus lividus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Paracentrothus lividus",
+    "group": "Urchins"
+  },
+  {
+    "species": "Sardina pilchardus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sarindina pilchardus",
+    "group": "Tunas"
+  },
+  {
+    "species": "Parapristipoma octolineatum",
+    "group": "missing"
+  },
+  {
+    "speciees": "Parapristipoma octolineatum",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Plagusia depressa",
+    "group": "missing"
+  },
+  {
+    "speciees": "Plagusia depressa",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Phycis phycis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Phycis phycis",
+    "group": "Tunas"
+  },
+  {
+    "species": "Amphinomidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Amphinomidae",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Littorinidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Littorinidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Bodianus scrofa",
+    "group": "missing"
+  },
+  {
+    "speciees": "Bodianus scrofa",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Globicephala macrorhynchus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Globicephala macrorhynchus",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Pelagia noctiluca",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pelagia noctiluca",
+    "group": "Jellyfiishes"
+  },
+  {
+    "species": "Beryx decadactylus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Beryx decadactylus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Actiniidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Actiniidae",
+    "group": "Jellyfiishes"
+  },
+  {
+    "species": "Isurus oxyrinchus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Isurus oxyrinchus",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Boops boops",
+    "group": "missing"
+  },
+  {
+    "speciees": "Boops boops",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Ophidiasteridae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Opfidiasteridae",
+    "group": "Benthic invetebrates"
+  },
+  {
+    "species": "Pagellus bogaraveo",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pagellus bogaraveo",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Eriphia verrucosa",
+    "group": "missing"
+  },
+  {
+    "speciees": "Eriphia verrucosa",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Stenoteuthis pteropus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stenoteuthis pteropus",
+    "group": "Jellyfiishes"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "missing"
+  },
+  {
+    "speciees": "Acanthocybium solandri",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Umbrina spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Umbrina spp.",
+    "group": "Molluscs"
+  },
+  {
+    "species": "Gymnothorax unicolor",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gymnothorax unicolor",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Columbellidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Columbellidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Calonectris diomedea",
+    "group": "missing"
+  },
+  {
+    "speciees": "Calonectris diomedea",
+    "group": "Dolphins and beaked whales"
+  },
+  {
+    "species": "Merluccius merluccius",
+    "group": "missing"
+  },
+  {
+    "speciees": "Merluccius merluccius",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Mycteroperca fusca",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mycteroperca fusca",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Muraena helena",
+    "group": "missing"
+  },
+  {
+    "speciees": "Muraena helena",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Serranus atricauda",
+    "group": "missing"
+  },
+  {
+    "speciees": "Seerranus atrricauda",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Pagellus erythrinus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Pagellus erythrinus",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Grapsidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Grapsidae",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Antimora rostrata",
+    "group": "missing"
+  },
+  {
+    "speciees": "Anti-mora rostrata",
+    "group": "Moray eels"
+  },
+  {
+    "species": "Sphyrna lewini",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sphyrna lewini",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Siphonoridae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Siphonoridae",
+    "group": "Bathydemersals"
+  },
+  {
+    "species": "Thunnus albacores",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thunnus albacores",
+    "group": "Tunas"
+  },
+  {
+    "species": "Squatina squatina",
+    "group": "missing"
+  },
+  {
+    "speciees": "Squatina squatina",
+    "group": "Benthic sharks and rays"
+  },
+  {
+    "species": "Polymixia nobilis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Polymixia nobiliis",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Onuphidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Onuphidae",
+    "group": "Benthic invertebrates"
+  },
+  {
+    "species": "Diplodus annularis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Diplodus annulariis",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Physalia physalis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Physalia physalis",
+    "group": "Jellyfiishes"
+  },
+  {
+    "species": "Detritus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Detritus",
+    "group": "Detritus"
+  },
+  {
+    "species": "Thunnus obesus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Thunnus obesus",
+    "group": "Tunas"
+  },
+  {
+    "species": "Gymnothorax polygonus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Gymnothorax polygonus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Helicolenus dactylopterus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Helicolenus dactylopectus",
+    "group": "Bathypelagics"
+  },
+  {
+    "species": "Balistes capriscus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Balistes capriscus",
+    "group": "Benthic sharks and rays"
+  }
+]

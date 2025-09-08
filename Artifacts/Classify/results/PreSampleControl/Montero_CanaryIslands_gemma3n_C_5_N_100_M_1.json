@@ -1,0 +1,482 @@
+[
+  {
+    "species": "Chromis limbata",
+    "group": "missing"
+  },
+  {
+    "species": "Grapsidae",
+    "group": "missing"
+  },
+  {
+    "species": "Sparisoma cretense",
+    "group": "missing"
+  },
+  {
+    "species": "Globicephala macrorhynchus",
+    "group": "missing"
+  },
+  {
+    "species": "Spondyliosoma cantharus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Spoondyliosoma cantharus",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Actiniidae",
+    "group": "missing"
+  },
+  {
+    "species": "Sarpa salpa",
+    "group": "missing"
+  },
+  {
+    "species": "Solea solea",
+    "group": "missing"
+  },
+  {
+    "species": "Diplodus sargus",
+    "group": "missing"
+  },
+  {
+    "species": "Sardina pilchardus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Sardina pilchardus",
+    "group": "Shrimps"
+  },
+  {
+    "species": "Gymnothorax polygonus",
+    "group": "missing"
+  },
+  {
+    "species": "Sardinella aurita",
+    "group": "missing"
+  },
+  {
+    "species": "Onuphidae",
+    "group": "missing"
+  },
+  {
+    "species": "Scyllarides latus",
+    "group": "missing"
+  },
+  {
+    "species": "Abudefduf luridus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Abudefduf luridus",
+    "group": "Shrimps"
+  },
+  {
+    "species": "Diplodus puntazzo",
+    "group": "missing"
+  },
+  {
+    "species": "Muraena augusti",
+    "group": "missing"
+  },
+  {
+    "species": "Merluccius merluccius",
+    "group": "missing"
+  },
+  {
+    "species": "Trachurus picturatus",
+    "group": "missing"
+  },
+  {
+    "species": "Plesionika narval",
+    "group": "missing"
+  },
+  {
+    "speciees": "Plesionika narval",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Siphonoridae",
+    "group": "missing"
+  },
+  {
+    "species": "Plesionika edwarsii",
+    "group": "missing"
+  },
+  {
+    "species": "Serranus atricauda",
+    "group": "missing"
+  },
+  {
+    "species": "Balistes capriscus",
+    "group": "missing"
+  },
+  {
+    "species": "Dentex dentex",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dentex dentex",
+    "group": "Demersal sparids"
+  },
+  {
+    "species": "Chaceon affini",
+    "group": "missing"
+  },
+  {
+    "species": "Pagellus erythrinus",
+    "group": "missing"
+  },
+  {
+    "species": "Epinephelus marginatus",
+    "group": "missing"
+  },
+  {
+    "species": "Pagrus pagrus",
+    "group": "missing"
+  },
+  {
+    "species": "Stephanolepis hispidus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Stephanolepis hispidus",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Illex condeitii",
+    "group": "missing"
+  },
+  {
+    "species": "Amphinomidae",
+    "group": "missing"
+  },
+  {
+    "species": "Grapsus adscensionis",
+    "group": "missing"
+  },
+  {
+    "species": "Seagrass/Seaweed",
+    "group": "missing"
+  },
+  {
+    "species": "Promethichthys prometeus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Promethichthys prometeus",
+    "group": "Bathydemersals"
+  },
+  {
+    "species": "Haliotidae",
+    "group": "missing"
+  },
+  {
+    "species": "Apogon imberbis",
+    "group": "missing"
+  },
+  {
+    "species": "Zooplankton",
+    "group": "missing"
+  },
+  {
+    "species": "Antimora rostrata",
+    "group": "missing"
+  },
+  {
+    "species": "Dentex gibbosus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Dentex gibbosus",
+    "group": "Demeersal sparids"
+  },
+  {
+    "species": "Cerithidae",
+    "group": "missing"
+  },
+  {
+    "species": "Muraena helena",
+    "group": "missing"
+  },
+  {
+    "species": "Diplodus vulgaris",
+    "group": "missing"
+  },
+  {
+    "species": "Beryx splendens",
+    "group": "missing"
+  },
+  {
+    "species": "Polymixia nobilis",
+    "group": "missing"
+  },
+  {
+    "speciees": "Polymixia nobiliis",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Beryx decadactylus",
+    "group": "missing"
+  },
+  {
+    "species": "Enchelycore anatina",
+    "group": "missing"
+  },
+  {
+    "species": "Pagrus auriga",
+    "group": "missing"
+  },
+  {
+    "species": "Cancer spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Palinurus elephas",
+    "group": "missing"
+  },
+  {
+    "speciees": "Palinurus elephas",
+    "group": "Benthic cephalo pods"
+  },
+  {
+    "species": "Thunnus alalunga",
+    "group": "missing"
+  },
+  {
+    "species": "Epigonus telescopus",
+    "group": "missing"
+  },
+  {
+    "species": "Ommastrephes bartrami",
+    "group": "missing"
+  },
+  {
+    "species": "Argyrosomus regius",
+    "group": "missing"
+  },
+  {
+    "species": "Trochidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Trochidae",
+    "group": "Molluscs"
+  },
+  {
+    "species": "Phytoplankton",
+    "group": "missing"
+  },
+  {
+    "species": "Helicolenus dactylopterus",
+    "group": "missing"
+  },
+  {
+    "species": "Caretta caretta",
+    "group": "missing"
+  },
+  {
+    "species": "Mycteroperca fusca",
+    "group": "missing"
+  },
+  {
+    "species": "Prionace glauca",
+    "group": "missing"
+  },
+  {
+    "speciees": "Prionace glauca",
+    "group": "Oceanic sharks"
+  },
+  {
+    "species": "Serranus scriba",
+    "group": "missing"
+  },
+  {
+    "species": "Physalia physalis",
+    "group": "missing"
+  },
+  {
+    "species": "Asteriidae",
+    "group": "missing"
+  },
+  {
+    "species": "Panulirus echinatus",
+    "group": "missing"
+  },
+  {
+    "species": "Holothuriidae",
+    "group": "missing"
+  },
+  {
+    "speciees": "Holothuriidae",
+    "group": "Urchins"
+  },
+  {
+    "species": "Boops boops",
+    "group": "missing"
+  },
+  {
+    "species": "Trachurus trachurus",
+    "group": "missing"
+  },
+  {
+    "species": "Sphyrna zygaena",
+    "group": "missing"
+  },
+  {
+    "species": "Aplysiidae",
+    "group": "missing"
+  },
+  {
+    "species": "Mustelus mustelus",
+    "group": "missing"
+  },
+  {
+    "speciees": "Mustelus mustelus",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Conger conger",
+    "group": "missing"
+  },
+  {
+    "species": "Acanthocybium solandri",
+    "group": "missing"
+  },
+  {
+    "species": "Antedonidae",
+    "group": "missing"
+  },
+  {
+    "species": "Ascididae",
+    "group": "missing"
+  },
+  {
+    "species": "DSL",
+    "group": "missing"
+  },
+  {
+    "speciees": "DSL",
+    "group": "DSL"
+  },
+  {
+    "species": "Columbellidae",
+    "group": "missing"
+  },
+  {
+    "species": "Calonectris diomedea",
+    "group": "missing"
+  },
+  {
+    "species": "Diplodus cervinus",
+    "group": "missing"
+  },
+  {
+    "species": "Diplodus annularis",
+    "group": "missing"
+  },
+  {
+    "species": "Eriphia verrucosa",
+    "group": "missing"
+  },
+  {
+    "speciees": "Eriphia verrucosa",
+    "group": "Other crustaceans"
+  },
+  {
+    "species": "Physeter macrocephalus",
+    "group": "missing"
+  },
+  {
+    "species": "Patellidae",
+    "group": "missing"
+  },
+  {
+    "species": "Tursiops truncatus",
+    "group": "missing"
+  },
+  {
+    "species": "Gymnothorax unicolor",
+    "group": "missing"
+  },
+  {
+    "species": "Umbrina spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Umbrina spp.",
+    "group": "Jellyfiishes"
+  },
+  {
+    "species": "Lithognathus mormyrus",
+    "group": "missing"
+  },
+  {
+    "species": "Thalasoma pavo",
+    "group": "missing"
+  },
+  {
+    "species": "Isurus oxyrinchus",
+    "group": "missing"
+  },
+  {
+    "species": "Littorinidae",
+    "group": "missing"
+  },
+  {
+    "species": "Makaira nigricans",
+    "group": "missing"
+  },
+  {
+    "speciees": "Makaira nigricans",
+    "group": "Pelagic cephalopods"
+  },
+  {
+    "species": "Xiphias gladius",
+    "group": "missing"
+  },
+  {
+    "species": "Seriola spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Pagellus bogaraveo",
+    "group": "missing"
+  },
+  {
+    "species": "Coryphaena spp.",
+    "group": "missing"
+  },
+  {
+    "species": "Serranus cabrilla",
+    "group": "missing"
+  },
+  {
+    "speciees": "Serranus cabrilla",
+    "group": "Demersal serranids and wreckfishes"
+  },
+  {
+    "species": "Stenoteuthis pteropus",
+    "group": "missing"
+  },
+  {
+    "species": "Mesoplodon densirostris",
+    "group": "missing"
+  },
+  {
+    "species": "Pelagia noctiluca",
+    "group": "missing"
+  },
+  {
+    "species": "Bodianus scrofa",
+    "group": "missing"
+  },
+  {
+    "species": "Loligo spp.",
+    "group": "missing"
+  },
+  {
+    "speciees": "Loligo spp.",
+    "group": "Molluscs"
+  }
+]
