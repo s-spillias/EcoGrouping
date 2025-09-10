@@ -106,12 +106,12 @@ python Classify.py [model_name]
 
 The project uses marine ecosystem datasets with predefined functional group classifications:
 
-- **Allain_WarmPool.json**: Warm pool ecosystem (119 taxa)
-- **Chagaris_WestFloridaShelf.json**: West Florida Shelf (100 taxa)
-- **Dahood_WestAntarctic.json**: West Antarctic ecosystem (43 taxa)
-- **Geers_GulfofMexico.json**: Gulf of Mexico (100 taxa)
-- **Mcmullen_Penguins.json**: Penguin ecosystem (17 taxa)
-- **Montero_CanaryIslands.json**: Canary Islands (100 taxa)
+- **Allain_WarmPool.json**: Warm pool ecosystem (119 taxa) (Allain et al., 2007)
+- **Chagaris_WestFloridaShelf.json**: West Florida Shelf (100 taxa) (Chagaris et al., 2015)
+- **Dahood_WestAntarctic.json**: West Antarctic ecosystem (43 taxa) (Dahood et al., 2019)
+- **Geers_GulfofMexico.json**: Gulf of Mexico (100 taxa) (Geers et al., 2016)
+- **Mcmullen_Penguins.json**: Penguin ecosystem (17 taxa) (McMullen et al., 2024)
+- **Montero_CanaryIslands.json**: Canary Islands (100 taxa) (Montero et al., 2021)
 
 Each dataset contains taxon-to-functional-group mappings used as ground truth for evaluation.
 
@@ -290,3 +290,15 @@ This framework enables research into:
 - **Domain Transfer**: Can models generalize across different ecosystems?
 
 
+## Dataset References
+Allain, V., Nicol, S., Essington, T., Okey, T., Olson, R. J., & Kirby, D. (2007). An Ecopath with Ecosim model of the Western and Central Pacific Ocean warm pool pelagic ecosystem. *Western and Central Pacific Fisheries Commission Scientific Committee Third Regular Session, Honolulu, Hawaii, USA*, 13–24.
+
+Chagaris, D. D., Mahmoudi, B., Walters, C. J., & Allen, M. S. (2015). Simulating the trophic impacts of fishery policy options on the West Florida Shelf using Ecopath with Ecosim. *Marine and Coastal Fisheries*, 7(1), 44–58. Oxford University Press.
+
+Dahood, A., Watters, G. M., & de Mutsert, K. (2019). Using sea-ice to calibrate a dynamic trophic model for the Western Antarctic Peninsula. *PLoS One*, 14(4), e0214814.
+
+Geers, T. M., Pikitch, E. K., & Frisk, M. G. (2016). An original model of the northern Gulf of Mexico using Ecopath with Ecosim and its implications for the effects of fishing on ecosystem structure and maturity. *Deep Sea Research Part II: Topical Studies in Oceanography*, 129, 319–331.
+
+McMullen, K., Vargas, F. H., Calle, P., Alavarado-Cadena, O., Pakhomov, E. A., & Alava, J. J. (2024). Modelling microplastic bioaccumulation and biomagnification potential in the Galápagos penguin ecosystem using Ecopath and Ecosim (EwE) with Ecotracer. *PLoS One*, 19(1), e0296788.
+
+Montero, L. C., Christensen, V., & Hernández, J. J. C. (2021). Simulating trophic impacts of fishing scenarios on two oceanic islands using Ecopath with Ecosim. *Marine Environmental Research*, 169, 105341.
